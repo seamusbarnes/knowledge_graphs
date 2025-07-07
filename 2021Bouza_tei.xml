@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The spectrum of a 1-μm-wavelength-driven tin microdroplet laser-produced plasma source in the 5.5-265.5 nm wavelength range</title>
+				<funder ref="#_8bFC7n8">
+					<orgName type="full">Dutch Research Council (NWO)</orgName>
+				</funder>
+				<funder ref="#_RBuwhVY">
+					<orgName type="full">European Research Council Starting</orgName>
+				</funder>
+				<funder ref="#_rW3AnYF">
+					<orgName type="full">TKI-HTSM</orgName>
+				</funder>
+				<funder ref="#_dZT6dbF">
+					<orgName type="full">Dutch Ministry of Economic Affairs</orgName>
+				</funder>
+				<funder ref="#_xScWppU">
+					<orgName type="full">NWO</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+				<date type="published" when="2021-12-02">2 December 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Appl</forename><surname>Phys</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Lett</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Z</forename><surname>Bouza</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Byers</surname></persName>
+							<idno type="ORCID">0000-0001-7840-3756</idno>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Sche</surname></persName>
+							<idno type="ORCID">0000-0001-8632-3334</idno>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Schu</surname></persName>
+							<idno type="ORCID">0000-0002-8339-2091</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Y</forename><surname>Mostafa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><surname>Behn</surname></persName>
+							<idno type="ORCID">0000-0001-7122-6283</idno>
+						</author>
+						<author>
+							<persName><forename type="first">Z</forename><surname>Mazzotta</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+							<email>versolato@arcnl.nl</email>
+						</author>
+						<author>
+							<affiliation>
+								<orgName>1 Advanced Research Center for Nanolithography, </orgName>
+								<address><addrLine>Science Park 106, 1098 XG Amsterdam, The Netherlands Drienerlolaan 5, 7522 NB Enschede, The Netherlands De Boelelaan 1081, 1081 HV Amsterdam, The Netherlands Nijenborgh 4, 9747 AG Groningen, The Netherlands</addrLine></address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 2 Industrial Focus Group XUV Optics, MESA+ Institute for Nanotechnology, University of Twente, </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 3 Department of Physics and Astronomy, and LaserLaB, Vrije Universiteit, </orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation>
+								<orgName> 4 Zernike Institute for Advanced Materials, University of Groningen,</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The spectrum of a 1-μm-wavelength-driven tin microdroplet laser-produced plasma source in the 5.5-265.5 nm wavelength range</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2021-12-02">2 December 2021</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6615B7B384B8A82EA97F6F0E2C6D5482</idno>
+					<idno type="DOI">10.1063/5.0073839</idno>
+					<note type="submission">Submitted: 4 October 2021 • Accepted: 5 November 2021 •</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2025-07-06T09:05+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Production of 13.5 nm light with 5% conversion efficiency from 2 μ m laser-driven tin microdroplet plasma</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>I. INTRODUCTION</head><p>Laser-produced plasma (LPP) generated from liquid tin (Sn) microdroplets provides extreme ultraviolet (EUV) light for modern nanolithography, <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> enabling the continued reduction of feature sizes on affordable integrated circuits (ICs). Such laser-produced plasmas of tin are characterized by a strong emission peak near 13.5 nm, originating from transitions between complex excited states in multiply charged Sn 10+ -Sn 15+ ions. <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> Multilayer optics are used in industrial lithography machines to collect the EUV light from its source and to provide an image of the so-called mask onto the wafer. These optics are designed to reflect wavelengths in a 2%-wavelength bandwidth centered around 13.5 nm (the bandwidth limitation is, in part, due to the many ∼10 required reflective surfaces). <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> As such, most spectroscopic works on Sn LPPs have focused on the "in-band" wavelength region <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> or on nearby out-of-band (OOB) EUV emission features, <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b28">[29]</ref><ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref> spectral regions of which may help diagnose the plasma in terms of its main in-band emitters' charge states or temperature. Little spectroscopic information is available for longer vacuum (VUV)and deep-ultraviolet (DUV) wavelengths, in particular, in terms of relative (or absolute) emission intensities. Available spectra in the literature show either vacuum-or deep-ultraviolet spectra without the EUV region around 13.5 nm, <ref type="bibr" target="#b31">[32]</ref><ref type="bibr" target="#b32">[33]</ref><ref type="bibr" target="#b33">[34]</ref><ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref> or if the EUV region is presented, the spectral range between EUV and DUV is not shown. <ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref><ref type="bibr" target="#b40">[41]</ref><ref type="bibr" target="#b41">[42]</ref> VUV/DUV emission may be transported through the multilayer optics systems and expose the wafer. Given the significant photon energy, this exposure may influence the chemical processes on the wafer and negatively impact imaging contrast and quality. <ref type="bibr" target="#b42">43,</ref><ref type="bibr" target="#b43">44</ref> As such, it is of significant interest to understand in detail the spectrum ARTICLE scitation.org/journal/adv of EUV generating LPPs in terms of their absolute emission intensity. This will enable identifying the origins of many yet-unknown emission features and enable the development of mitigation strategies, i.e., minimize the OOB emission. In particular, the wavelength range of 30-90 nm is important for EUV lithography due to the strong absorption by hydrogen, which is present as a buffer gas in the EUV source chambers. Photoionization of hydrogen molecules by DUV radiation generates plasmas in the scanner that can degrade important optical components. <ref type="bibr" target="#b44">45</ref> It is challenging to obtain the source spectrum in this wavelength range due to strong contributions from higher diffraction orders of the very strong emission feature centered around 13.5 nm.</p><p>We present an intensity-calibrated spectrum of a droplet-based tin plasma driven by 1-μm laser light in the wavelength range between 5.5 and 265.5 nm. A custom-built transmission grating spectrometer (TGS) is used to record the spectrum using a 1000 lines per mm grating. Higher diffraction orders, which would otherwise render impossible the detection of longer wavelengths, are eliminated by using Zr, Si, Al, LiF, MgF 2 , and UV fused silica (UVFS) filters. An additional novel filter using four SiC mirrors is used to record the 40-100 nm region, which would, given the dominant contribution from the higher diffraction orders of the EUV band if unfiltered, otherwise remain inaccessible. Careful calibration of these filters and the transmission grating combined with the response of the camera enables the absolute calibration of the full operating band and obtaining a spectrum free of any higher diffraction orders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. EXPERIMENTAL SETUP</head><p>In our experiments, molten tin microdroplets of 46 μm diameter are first irradiated by a relatively low intensity (∼10 9 W/cm <ref type="bibr" target="#b1">2</ref> ), 1-μm-wavelength pre-pulse (PP) from an Nd:YAG laser. <ref type="bibr" target="#b45">46</ref> The microdroplets are dispensed from a droplet generator inside a vacuum vessel with a background pressure of ∼10 -6 mbar. The beam profile of the PP laser is Gaussian with a spatial full width at half maximum (FWHM) of 97 μm. The temporal profile is a Gaussian with a FWHM of 29 ns. For the presented experiments, a constant PP energy of 6.8 mJ was used. The PP deforms the droplets into thin sheet targets, which are radially symmetric and thickest in their center. <ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref><ref type="bibr" target="#b50">[51]</ref> The target diameter is controlled via a time delay between the pre-and main pulses (MPs), and for our experiments, the time delay is set to 2000 ns, leading to a target diameter of ∼320 μm.</p><p>After the PP, the targets are irradiated with a high-intensity 1-μm-wavelength main pulse (MP) from a Nd:YAG laser. The pulse duration of the MP is 10 ns, and the focal spot has a Gaussian beam profile with a FWHM of 103 μm. For the presented experiments, a fixed laser intensity of 2.3 × 10 11 W/cm 2 was employed using a pulse energy of 293 mJ. The intensity was calculated as described in Ref. 27. Additional details regarding the droplet-based experimental setup can be found in Ref. 47. Finally, a simplified scheme of the experimental setup is presented in Fig. <ref type="figure" target="#fig_0">1</ref>.</p><p>The spectral emission from the Sn laser-produced plasma is recorded using a broadband transmission grating spectrometer <ref type="bibr" target="#b51">52,</ref><ref type="bibr" target="#b52">53</ref> placed under an angle of 60 ○ with respect to the incoming laser light. The different elements in the TGS are shown schematically in Fig. <ref type="figure" target="#fig_0">1</ref>. The spectrometer is operated with a slit width of 50 μm and a 1000 lines/mm transmission grating, achieving a FWHM instrument resolution of 0.8 nm at 13.5 nm. <ref type="bibr" target="#b51">52</ref> The use of the 1000 lines/mm transmission grating allows one to record emission in the 5.5-265.5 nm-wavelength region. The limits to this specific 5.5-265.5 nm range are set on the short wavelength side by the onset (&gt;5.5 nm) of the availability of calibration data for the diffraction grating (see Sec. III B). On the long wavelength side, the limit (&lt;265.5 nm) is due to the geometry of the spectrometer. Furthermore, the spectrometer contains Zr, Si, Al, LiF, MgF 2 , and UVFS filters and SiC mirrors as tabulated in Table <ref type="table" target="#tab_0">I</ref>. The Zr, Si, and Al filters are foil filters with a common thickness of 200 nm. The foils are supported with a Ni mesh with 10 lines/in. period. The SiC system comprises four bulk-SiC mirrors placed under an angle of 45 ○ with respect to the optical axis (see Fig. <ref type="figure" target="#fig_0">1</ref>). The transmission grating, the Zr, Si, and Al filters, and the SiC mirrors are calibrated at the beamline facilities of the Physikalisch-Technische Bundesanstalt (PTB), at the BESSY-II synchrotron, Berlin, limited to wavelengths &gt;5.5 nm. The LiF, MgF 2 and UVFS filters are calibrated for wavelengths down to 115 nm using a vacuum-ultraviolet spectrograph equipped with a deuterium lamp.</p><p>The diffracted light in the TGS is recorded on a backilluminated charge-coupled device (CCD) from greateyes GmbH (GE2048 512BI UV1). The CCD is cooled to -30 ○ C to reduce thermal noise. Background images are then subtracted from the recorded spectra to eliminate the dark counts and read-out noise. The resulting CCD images are cropped and corrected for shear and tilt that may be introduced by a misalignment of the slit and the grating with respect to the CCD pixel array. Next, the pixel counts are averaged along the non-dispersive axis and corrected for the respective exposure times. The resulting spectra are then corrected for filter efficiency, the first-order diffraction efficiency of the grating, the camera response, and the solid angle of the spectrometer. The spectrometer has a solid angle of 37 × 10 -11 sr that is calculated using the slit width, pixel size, and distance to the plasma. For the wavelength calibration, a measurement with the Al filter is used. The sharp filter edge at 17.056 nm <ref type="bibr" target="#b53">54</ref> and its higher orders enable accurate calibration of the wavelength axis. Here, the higher diffraction orders are advantageous for wavelength calibration.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>III. RESULTS</head><p>In this section, three necessary types of corrections are applied to the raw spectra, namely, the (A) filter transmission, (B) grating diffraction efficiency, and (C) CCD response.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A. Filter transmission</head><p>Spectra were recorded in the 5.5-265.5 nm-wavelength region using different filters. The advantage of capturing spectra using different filters is that each filter allows for the measurement of different wavelength regions clear from higher-order contributions. In the following, we sub-divide our discussion of the 5.5-265.5 nm spectra into three regions: (1) 5.5-40 nm, (2) 40-115 nm, and (3) 115-265.5 nm, and we discuss each region individually.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">5.5-40 nm wavelength range</head><p>For the investigation of the 5.5-40 nm wavelength range, we recorded four sets of spectra using (i) no filter and the filters (ii) Zr, (iii) Si, and (iv) Al. The measured spectra are presented in Fig. <ref type="figure" target="#fig_2">2(a)</ref>.</p><p>The Zr filter has a cutoff at ∼6.1 nm that allows for recording a higher-order-free tin LPP spectrum in the ∼6.1 to 12.2 nm region. The Si filter exhibits a cutoff at ∼12.5 nm, so in that way, the spectrum is pure in the range of ∼12.5 to 25 nm. The Al filter has the advantage of a longer wavelength cutoff at ∼17 nm such that all orders of the strong 13.5 nm emission feature are absent and a clean measurement in the range ∼17 to 34 nm is possible.</p><p>The transmission functions of the various filters are tabulated in the CXRO database; 54 however, such transmission data are only valid for pristine samples. These filters typically suffer from oxidation and are subject to contamination from hydrocarbons and tin deposition. To obtain reliable transmission functions, the filters are calibrated at the PTB in Berlin. The calibration results are shown in Figs. <ref type="figure" target="#fig_2">2(b)-2(d</ref>). The calibration procedure comprises two steps. First, for each filter type, the entire filter area was sampled at a single wavelength (13.5 nm for the Al filter and 17.5 nm for the Si and Zr filters) using a 0.5 × 0.5 mm 2 beam, enabling one to obtain a detailed "map" of the transmission. Second, at one particular position on the filter (indicated by red squares in the inset figures), the full wavelength range is measured. The recorded transmission function was subsequently scaled by a factor proportional to the average transmission at the wavelength of the first measurement step  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ARTICLE scitation.org/journal/adv</head><p>Superimposed in black in the same figures are experimental estimates of the transmission function. These estimates are obtained by dividing the respective filtered spectra by the unfiltered spectra. These ratios may serve only as estimates as they are influenced by higher diffraction orders.</p><p>In all cases, the filter transmission is significantly lower than theoretical transmission that would be obtained from the CXRO database using the nominal thickness (shown as light gray lines). In an attempt to quantitatively explain the differences between the calibration and nominal CXRO database entries, we simulate the influence of finite oxidation of the filter surfaces using the following equation (Al as an example):</p><formula xml:id="formula_0">T = exp(-n Al μ Al d Al ) × exp(-n Al 2 O 3 μ Al 2 O 3 d Al 2 O 3 ).</formula><p>(</p><formula xml:id="formula_1">)<label>1</label></formula><p>The symbols n, μ, and d represent the number of atoms per unit volume, atomic photo-absorption cross section, and thickness of the material, respectively. Thin film interference effects are verified to be negligible. We also accounted for the thickness of the non-oxidized part of the filter, and the fraction of the filter material in the oxide layer sums up to the nominal thickness. The fraction of the filter material in the oxide layer is calculated by considering the atomic weights of the pure filter material and the oxidized filter material. For Al, this fraction is calculated as W Al /W Al 2 O 3 , where W is the atomic/molecular weight. This consideration allows fitting the T(λ) function to the PTB measured transmission curve with a single free fit parameter, namely, the thickness of the oxide layer. The fit results shown in Fig. <ref type="figure" target="#fig_2">2</ref>   <ref type="bibr" target="#b54">55</ref> further shows that carbon and carbide mixed with Zr are also present throughout the filter, decreasing the transmission further. Since carbon and carbide mixing is not taken into account in our analysis, our calculations may overestimate the ZrO 2 layer thickness. For the Si filter, a total oxide layer thickness of 66 nm has been reported, somewhat thicker than what we found. <ref type="bibr" target="#b55">56</ref> For the Al filter, oxide thicknesses around 15 nm have been reported, which match well with the 17 nm thickness that is found here. <ref type="bibr" target="#b55">56,</ref><ref type="bibr" target="#b56">57</ref> All in all, the PTB-calibrated transmission curves can be well understood from our model assuming a relatively thick oxide layer coating the pure filter surfaces.</p><p>Next, the spectra are corrected with the filter transmission data from PTB, the results of which are shown in Fig. <ref type="figure" target="#fig_2">2(e)</ref>. The corrected spectra are shown starting from the short wavelength cutoff of each filter onward until the calibrated transmission drops below 10%. The corrected spectra are in very good agreement with each other [cf. Fig. <ref type="figure" target="#fig_2">2(e)</ref>]. The dominant remaining difference is visible at 40 nm wavelength and can be attributed to the third-order contribution of the main emission feature at 13.5 nm that here only impacts the unfiltered spectrum and the Si filtered spectrum (the Zr-filtered spectrum is shown up to 18 nm where the transmission drops below 10%). The Al-filtered spectrum is free of this third-order diffraction feature and will be used for this wavelength range.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">40-115 nm wavelength range</head><p>For the investigation of the 40-115 nm wavelength range, we use the SiC mirrors. In Fig. <ref type="figure" target="#fig_3">3</ref>(a), the spectrum obtained using the SiC mirrors is presented. In the same figure, a scaled unfiltered spectrum is also presented for comparison. The peak in the unfiltered spectrum in the 65-70 nm range can be attributed to the fifth diffraction order of the dominant 13.5 nm emission feature. The spectral intensities in the SiC mirror measurements are between two and three orders of magnitude lower than the unfiltered spectrum.</p><p>The SiC mirrors were sent to PTB for calibration in order to measure its total reflection efficiency. The resulting calibration is compared to the theoretical response curve in Fig. <ref type="figure" target="#fig_3">3(b)</ref>. The difference can be attributed partially to contamination but also to scattering due to roughness.</p><p>The LPP spectrum is then corrected with the reflectivity calibration data from PTB, the results of which are shown in Fig. <ref type="figure" target="#fig_3">3(c)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ARTICLE scitation.org/journal/adv</head><p>The unfiltered and SiC filtered spectra show significant differences, highlighting the important contribution from higher orders to the spectrum and emphasizing the need for suppression of higher orders using filters as is done here.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">115-265.5 nm wavelength range</head><p>To investigate the 115-265.5 nm wavelength range, we have recorded spectra using (i) no filter and the filters (ii) LiF, (iii) MgF 2 , and (iv) UVFS. The spectra are shown in Fig. <ref type="figure" target="#fig_4">4(a)</ref>. The spectrum with the LiF filter extends smoothly below 115 nm, but the spectrum recorded using the MgF 2 filter exhibits a steep decrease. The UVFS filter has the longest cutoff wavelength at 165 nm. All filters transmit at wavelengths above 265.5 nm, which is the limit of the measurement range set by the spectrometer.</p><p>In Fig. <ref type="figure" target="#fig_4">4</ref>(b), the calibrated transmission efficiency curves of the three filters used for this wavelength region are presented. Since the upper limit of the wavelength axis of our recorded spectra is ∼265.5 nm, a combination of two of the filters (either LiF or MgF 2 with UVFS) in the 115-265.5 nm range will fully suppress all higher-order contributions.</p><p>We present the filter-corrected spectra in Fig. <ref type="figure" target="#fig_4">4(c</ref>). The three filter-corrected spectra are generally in good agreement with each other. The most significant difference, occurring below 120 nm, is </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FIG. 5.</head><p>Concatenated spectra from tin LPP using the various filters, corrected for the respective transmission functions (see main text). The chosen range for each spectrum is free of any higher diffraction orders. The unfiltered spectrum is also shown for comparison. related to the accuracy of the onset of the transmission of the MgF 2 filter and the precision of the relative wavelength calibration of the experiments and calibration. The comparison between the unfiltered spectrum and the filter-corrected spectra highlights the prominent contribution from high diffraction orders. The apparent intensity, i.e., counts, of the unfiltered spectrum is more than an order of magnitude stronger than the true signal, thus emphasizing the need to use filters.</p><p>In Fig. <ref type="figure">5</ref>, we present the full spectrum in the 5.5-265.5 nm wavelength range obtained from concatenating the filtered spectra using only their respective ranges free of any higher diffraction orders. The individual y-axis values are shown to accurately "connect" at the respective overlap regions. We note that no free fit factors have been used to obtain this match. Instead, it is the accurate calibration of the filter transmissions that enables this good agreement. As seen before, strong contributions from higher diffraction orders are visible. In particular, the odd multiples of the main 13.5 nm emission feature stand out, starting from the third diffraction order.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>B. Grating diffraction efficiency</head><p>The first-order diffraction efficiency of the grating is shown in Fig. <ref type="figure" target="#fig_6">6</ref>(a), as obtained from calibration at PTB. The feature that stands out is the "kink" near 12 nm that originates from the Si L-edge absorption in the Si 3 N 4 material present in the transmission grating. <ref type="bibr" target="#b51">52</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C. CCD response</head><p>The CCD camera response is a product of three components: the gain, quantum yield (QY), and quantum efficiency (QE). <ref type="bibr" target="#b58">60</ref> The gain relates the ADU to the generated electrons and has the units of ADU/e -. For the camera that is used in this experiment, the camera gain is specified by the manufacturer 58 as 0.83 ADU/e -.</p><p>The QY is defined as the number of electrons generated per detected photon and is proportional to the energy of the photon. A typical assumption in the EUV and VUV wavelength ranges <ref type="bibr" target="#b57">59,</ref><ref type="bibr" target="#b59">61</ref>   that a photon energy of 3.66 eV, which corresponds to the indirect bandgap of Si, is needed to generate an electron. A detected photon of energy E would thus generate E/(3.66 eV) electrons. As pointed out also by Heymes et al., <ref type="bibr" target="#b59">61</ref> this assumption breaks down in the optical range where QY will instead converge to a value of 1. In the here studied wavelength range, however, the simple 1/3.66 e - /eV rule is in good agreement with a more detailed treatment. <ref type="bibr" target="#b57">59,</ref><ref type="bibr" target="#b58">60</ref> Correcting for QY enables converting the number of electrons to the number of detected photons or to the amount of detected energy in units of eV with a proportionality constant of 3.66. Hence, the QY for the wavelength range explored in this work can be written in units of e - /eV or e - /mJ as QY = 1/3.66e - /eV = 1.71 × 10 15 e - /mJ. The QE is defined as the ratio of the number of detected photons to the number of photons arriving on the detector surface. Hence, it is also equal to the ratio of detected to incident energy. In Fig. <ref type="figure" target="#fig_6">6</ref>(a), we show two such quantum efficiency curves. The first is obtained from the manufacturer of the CCD used in our experiments. <ref type="bibr">58</ref> We note however that the calibration provided by the manufacturer depends, in part, on simulations and not experiments. <ref type="bibr" target="#b60">62</ref> According to their simulations, the sharp edge around 120 nm originates from thin film interference, assuming a sharp interface between the assumed SiO 2 layer and the active Si CCD surface. In reality, the boundary is expected to be less sharp due to intermixing. As a result, the QE curve is expected to have a smoother shape. In search of experimental support for our QE calibration, we employ the recent results. <ref type="bibr" target="#b57">59</ref> Further experimental QE studies are found in previous works. <ref type="bibr" target="#b60">[62]</ref><ref type="bibr" target="#b61">[63]</ref><ref type="bibr" target="#b62">[64]</ref> Comparing the two QE curves in Fig. <ref type="figure" target="#fig_6">6</ref>(a), we note that there is a striking difference near 120 nm where a sharp, steep edge is visible in the QE from the manufacturer, which is not supported (either in amplitude or shape) by recent experimental TABLE II. Energy emitted toward the spectrometer, i.e., under a 60 ○ angle (cf. Fig. <ref type="figure" target="#fig_0">1</ref>) in the various wavelength ranges using manufacturer QE data (cf. Fig. <ref type="figure" target="#fig_6">6</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Wavelength range (nm)</head><p>Corresponding filter Energy (mJ shot a The value for the energy emitted in the 2%-wavelength bandwidth centered around 13.5 nm is impacted on by the limited resolution of the spectrometer (0.8 nm at 13.5 nm).</p><p>work. <ref type="bibr" target="#b57">59</ref> The differences between the available QE curves may be due to dissimilarities in manufacturing processes or, for instance, due to possible aging effects. Considering the significant differences, the overall uncertainty in our final spectrum is expected to be dominated by the QE curve.</p><p>As the final step, the concatenated spectra of Fig. <ref type="figure">5</ref> are corrected for the camera response (gain, QY, and QE) together with the solid angle of the spectrometer (37 × 10 -11 sr), and the resulting corrected full-range spectrum is shown in Fig. <ref type="figure" target="#fig_6">6</ref>(b). Integral energies emitted in the various wavelength ranges, following the filters used, are presented in Table <ref type="table" target="#tab_0">II</ref>. The final corrections, using either QE curve, produce a "knee" near 120 nm wavelength that is not visible in the concatenated data of Fig. <ref type="figure">5</ref>, which may point at a discrepancy between the true QE and the available QE curves.</p><p>Further corrections for the source size (possibly weakly wavelength-dependent) and for the precise time dependence of the transient emission are required to interpret the obtained intensity in terms of spectral radiance. These steps are left as future work but may be expected to have only limited impact on the overall shape of the emission spectrum, as shown in Fig. <ref type="figure" target="#fig_6">6(b</ref>). Nevertheless, the obtained spectrum enables diagnosing the energy distribution of the LPP that is useful for optimizing the LPP based EUV sources.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>IV. CONCLUSIONS</head><p>We present a fully calibrated spectrum in the 5.5-265.5 nm range from a microdroplet-tin Nd:YAG-laser-produced plasma. The spectrum obtained using a transmission grating spectrometer is the result of a careful calibration of a series of filters enabling measurements free of any higher diffraction orders. Specifically, we use Zr, Si, and Al foil filters and bulk LiF, MgF 2 , and UVFS filters. A further filter using four SiC mirrors is used to record the otherwise inaccessible 40-100 nm region. The photon energy in this particular wavelength range is significant and provides input for further studies on the impact of EUV-induced-plasma in the EUV source vessel. The fully corrected and concatenated spectra are shown to accurately match in their respective overlap regions, demonstrating the accuracy of the calibration procedure. The dominant remaining uncertainty stems from the correction for quantum efficiency. Our calibration enables the optimization of current and future sources of EUV light for nanolithography by providing metrology for ARTICLE scitation.org/journal/adv minimizing the emission of unwanted wavelength bands that may limit imaging contrast or even impact machine uptime.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>SUPPLEMENTARY MATERIAL</head><p>See the supplementary material for the data presented in Figs. 5 and 6(b).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIG. 1 .</head><label>1</label><figDesc>FIG. 1. Experimental setup showing the front-and side-view shadowgraphs of the tin targets used for plasma generation as recorded by two cameras. The upper boxed figure is a schematic of the transmission grating spectrometer.</figDesc><graphic coords="3,309.98,84.22,236.88,129.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>(within the filter window indicated by the black circle in the inset figures). The error bars on this scaled transmission curve [red data points in Figs. 2(b)-2(d)] represent one standard deviation from the average across the filter.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIG. 2 .</head><label>2</label><figDesc>FIG. 2. (a)Raw emission spectra obtained from tin LPP using Zr, Si, and Al filters, and using no filter. ADU: arithmetic digital unit. Filter transmissions for (b) Zr, (c) Si, and (d) Al filters. The experimental ratio is the result of the division of the respective filtered by the unfiltered spectra, the calibration is from PTB, and the fitted curve is obtained taking oxidation into account, while the nominal one is the transmission obtained CXRO. Insets: transmission maps measured at 13.5 nm for Zr and Si and at 17.5 nm for Al. Red squares depict the location of the filter used for the wavelength scan. (e) Spectra corrected for the respective filter transmission functions.</figDesc><graphic coords="4,315.86,82.23,225.12,519.36" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FIG. 3 .</head><label>3</label><figDesc>FIG. 3. (a) Raw tin LPP emission spectra using the SiC mirrors and no filter. The unfiltered spectrum is multiplied by ×0.007 for better visibility. (b) SiC mirror reflectivity curves: one calibrated by PTB and one from theory (see main text). (c) Unfiltered spectrum and spectrum corrected for the SiC mirror reflectivity.</figDesc><graphic coords="5,320.18,340.03,216.48,304.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>FIG. 4 .</head><label>4</label><figDesc>FIG. 4. (a) Raw emission spectra from a tin LPP using the LiF, MgF 2 , and UVFS filter and no filter. The unfiltered spectrum is multiplied by ×0.1 for better visibility. (b) Filter transmission curves for the various filters. (c) Spectra corrected for the respective filter transmission functions.</figDesc><graphic coords="6,58.18,339.43,216.48,305.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head></head><label></label><figDesc>is</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>FIG. 6 .</head><label>6</label><figDesc>FIG. 6. (a) Grating efficiency for the first diffraction order and QE of the CCD camera, comparing manufacturer QE 58 or experimental QE 59 data (see main text). (b) Concatenated spectra (cf. Fig. 5) after correcting for the diffraction efficiency of the grating and the CCD response using either manufacturer or experimental QE data and solid angle.</figDesc><graphic coords="7,58.18,84.22,216.48,215.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,0.00,-0.00,116.21,852.41" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><head></head><label></label><figDesc></figDesc><graphic coords="1,130.00,645.29,435.00,116.71" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>TABLE I .</head><label>I</label><figDesc>Filters used in the spectral measurements with the transmission grating spectrometer. All short wavelength cutoffs are specified at 50% of the maximum transmission shown in Figs.2-4.</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>Short wavelength</cell></row><row><cell>Filter material</cell><cell>Filter type</cell><cell>Thickness</cell><cell>cutoff (nm)</cell></row><row><cell>Zr</cell><cell>Foil</cell><cell>200 nm</cell><cell>6.1</cell></row><row><cell>Si</cell><cell>Foil</cell><cell>200 nm</cell><cell>12.5</cell></row><row><cell>Al</cell><cell>Foil</cell><cell>200 nm</cell><cell>17</cell></row><row><cell>SiC</cell><cell>Mirrors</cell><cell>1 mm</cell><cell>55</cell></row><row><cell>LiF</cell><cell>Window</cell><cell>2 mm</cell><cell>129</cell></row><row><cell>MgF 2</cell><cell>Window</cell><cell>2 mm</cell><cell>&lt;115 a</cell></row><row><cell>UVFS</cell><cell>Window</cell><cell>2 mm</cell><cell>165</cell></row></table><note><p>a At 115 nm, the transmission is ∼53% of the maximum.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head></head><label></label><figDesc>-1 sr -1 )</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell>(%) of total</cell></row><row><cell></cell><cell></cell><cell></cell><cell>energy</cell></row><row><cell>5.5-17.5</cell><cell>Zr</cell><cell>7.1</cell><cell>54.7</cell></row><row><cell>(13.5 nm ±1% a )</cell><cell>(Zr)</cell><cell>(0.4)</cell><cell>(3.1)</cell></row><row><cell>17.5-42.5</cell><cell>Al</cell><cell>4.2</cell><cell>32.5</cell></row><row><cell>42.5-115</cell><cell>SiC</cell><cell>1.5</cell><cell>11.4</cell></row><row><cell>115-175.5</cell><cell>LiF</cell><cell>0.2</cell><cell>1.2</cell></row><row><cell>175.5-265.5</cell><cell>UVFS</cell><cell>0.03</cell><cell>0.2</cell></row><row><cell>Total energy</cell><cell></cell><cell>13.0</cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© Author(s) 2021</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>Part of this work was carried out within the <rs type="institution">Advanced Research Center for Nanolithography</rs>, a public-private partnership of the <rs type="institution">University of Amsterdam</rs>, the <rs type="institution">Vrije Universiteit Amsterdam</rs>, the <rs type="funder">Dutch Research Council (NWO)</rs>, and the semiconductor equipment manufacturer ASML, and was financed by <rs type="programName">Toeslag voor Topconsortia voor Kennis en Innovatie</rs> from the <rs type="funder">Dutch Ministry of Economic Affairs</rs>. The transmission grating spectrometer was developed in the <rs type="institution">Industrial Focus Group XUV Optics at the University of Twente</rs> and supported by the FOM Valorisation Prize 2011 awarded to <rs type="person">F. Bijkerk</rs> and the <rs type="grantName">NanoNextNL Valorization Grant</rs> awarded to <rs type="person">M. Bayraktar</rs> in 2015. This project was funded by <rs type="funder">TKI-HTSM</rs> under the project name "<rs type="projectName">Spectral Unraveling of EUV Lithography Light Sources (SUN)</rs>." This project received further funding from <rs type="funder">European Research Council Starting</rs> Grant No. <rs type="grantNumber">802648</rs> and is part of the <rs type="programName">VIDI research program</rs> under Project No. <rs type="grantNumber">15697</rs>, which is financed by <rs type="funder">NWO</rs>. The authors would like to thank <rs type="person">Dr. Julian Heymes</rs> (The <rs type="affiliation">Open University, Milton Keynes, UK</rs>) for his valuable contribution to this manuscript.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_8bFC7n8">
+					<orgName type="program" subtype="full">Toeslag voor Topconsortia voor Kennis en Innovatie</orgName>
+				</org>
+				<org type="funding" xml:id="_dZT6dbF">
+					<orgName type="grant-name">NanoNextNL Valorization Grant</orgName>
+				</org>
+				<org type="funded-project" xml:id="_rW3AnYF">
+					<orgName type="project" subtype="full">Spectral Unraveling of EUV Lithography Light Sources (SUN)</orgName>
+				</org>
+				<org type="funding" xml:id="_RBuwhVY">
+					<idno type="grant-number">802648</idno>
+					<orgName type="program" subtype="full">VIDI research program</orgName>
+				</org>
+				<org type="funding" xml:id="_xScWppU">
+					<idno type="grant-number">15697</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DATA AVAILABILITY</head><p>The data that support the findings of this study are available from the corresponding author upon reasonable request. The particular data that support the findings of this study as presented in Figs. <ref type="figure">5</ref> and<ref type="figure">6</ref>(b) are available within the article and its supplementary material.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AUTHOR DECLARATIONS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of Interest</head><p>The authors have no conflicts to disclose.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Physics of laser-driven tin plasma sources of EUV radiation for nanolithography</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1361-6595/ab3302</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Plasma Sources Sci. Technol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">83001</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Industrialization of a robust EUV source for high-volume manufacturing and power scaling beyond 250 W</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Purvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V</forename><surname>Fomenkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Schafgans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vargas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Tao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Rokitski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mulder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Buurman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kats</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stewart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Laforge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rajyaguru</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vaschenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Ershov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Rafac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Abraham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.2305955</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE 10583</title>
+		<meeting>SPIE 10583</meeting>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page">1058327</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">EUV lithography finally ready for fabs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Moore</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/mspec.2018.8241736</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Spectrum</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="46" to="48" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">High Power LPP-EUV Source with Long Collector Mirror Lifetime for High Volume Semiconductor Manufacturing</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mizoguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nakarai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Abe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Nowak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kawasuji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tanaka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">China Semiconductor Technology International Conference (CSTIC)</title>
+		<imprint>
+			<publisher>IEEE</publisher>
+			<date type="published" when="2018">2018</date>
+			<biblScope unit="page" from="1" to="7" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Droplet-based, high-brightness extreme ultraviolet laser plasma source for metrology</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Vinokhodov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Krivokorytov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">V</forename><surname>Sidelnikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Krivtsun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Medvedev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Koshelev</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4966930</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page">163304</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Physical processes in EUV sources for microlithography</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Banine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Koshelev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H P M</forename><surname>Swinkels</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0022-3727/44/25/253001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. D: Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page">253001</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Extreme ultraviolet lithography: Status and prospects</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Benschop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Banine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Loopstra</surname></persName>
+		</author>
+		<idno type="DOI">10.1116/1.3010737</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Vac. Sci. Technol. B</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="2204" to="2207" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">p transition array of the eighth spectrum of tin: Sn VIII</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">I</forename><surname>Azarov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Joshi</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0953-4075/26/20/011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. B: At., Mol. Opt. Phys</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3495" to="3514" />
+			<date type="published" when="0465">4d 7 -4d 6 5. 1993</date>
+		</imprint>
+	</monogr>
+	<note>Analysis of the</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">d 8 ) transitions in the Sn VIII spectrum</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Churilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<idno type="DOI">10.1134/s0030400x06050043</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Analysis of the 4p</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="660" to="666" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Opt. Spectrosc.</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Analyses of the Sn IX-Sn XII spectra in the EUV region</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Churilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0031-8949/73/6/014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Scr</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page">614</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Spectra of rubidium-like Pd X-Sn XIV ions</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">É</forename><forename type="middle">Y</forename><surname>Kononov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Churilov</surname></persName>
+		</author>
+		<idno type="DOI">10.1134/s0030400x08120060</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Spectrosc</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="844" to="850" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Atomic tin data</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">Y</forename><surname>Tolstikhina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Churilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Koshelev</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">EUV Sources for Lithography</title>
+		<editor>
+			<persName><forename type="first">V</forename><surname>Bakshi</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>SPIE Press</publisher>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="113" to="148" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Transitions and the effects of configuration interaction in the spectra of Sn XV-Sn XVIII</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>D'arcy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tanuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fujioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nishihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Suzuki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Kato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>O'sullivan</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevA.79.042509</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page">42509</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">EUV emission spectra in collisions of multiply charged Sn ions with He and Xe</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tanuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fujioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sasaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nishihara</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0953-4075/43/6/065204</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. B: At., Mol. Opt. Phys</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page">65204</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Atomic structure considerations for the low-temperature opacity of Sn</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Colgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Kilcrease</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Abdallah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Sherrill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Fontes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hakel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S J</forename><surname>Armstrong</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.hedp.2017.03.009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">High Energy Density Phys</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="133" to="137" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Optical spectroscopy of complex open-4d-shell ions Sn 7+ -Sn 10+</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Windberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dobrodey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Kahl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Berengut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Crespo López-Urrutia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physreva.95.042503</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page">42503</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">EUV spectroscopy of highly charged Sn 13+ -Sn 15+ ions in an electron-beam ion trap</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bekker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Czapski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Berengut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R C</forename><surname>López-Urrutia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physreva.101.062511</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page">62511</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Improved reflectance and stability of Mo/Si multilayers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bajt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Alameda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Barbee</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Clift</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Folta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Kaufmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Spiller</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/1.1489426</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Eng</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1797" to="1804" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Spectral tailoring of nanoscale EUV and soft x-ray multilayer optics</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Medvedev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Van De Kruijs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Yakshin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Louis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bijkerk</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4978290</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Rev</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">11104</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Spectroscopy of highly charged ions and its relevance to EUV and soft x-ray source development</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>O'sullivan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>D'arcy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dunne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hayden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kilbane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mccormack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>O'reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sheridan</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0953-4075/48/14/144025</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. B: At., Mol. Opt. Phys</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">144025</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Prominent radiative contributions from multiply-excited states in laser-produced tin plasma for nanolithography</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Basko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-020-15678-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nat. Commun</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">2334</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Analysis of the spectra of In XII-XIV and Sn XIII-XV in the far-VUV region</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Churilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<idno type="DOI">10.1134/s0030400x06080017</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Spectrosc</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="169" to="178" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Statistics and characteristics of XUV transition arrays from laser-produced plasmas of the elements tin through iodine</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Svendsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>O'sullivan</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physreva.50.3710</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. A</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="3710" to="3718" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">f + 6p) transition array of Sn VI</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Churilov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Kildiyarova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kramida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">N</forename><surname>Joshi</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0031-8949/50/5/003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Analysis</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="463" to="468" />
+			<date type="published" when="1994">4d 9 -4d 8. 1994</date>
+		</imprint>
+	</monogr>
+	<note>Phys. Scr.</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Short-wavelength out-of-band EUV emission from Sn laser-produced plasma</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bayerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1361-6455/aaa593</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. B: At., Mol. Opt. Phys</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page">45005</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Spectral characterization of an industrial EUV light source for nanolithography</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bouza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1361-6463/ab56d4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. D: Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">55204</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Efficient generation of extreme ultraviolet light from Nd:YAG-driven microdroplet-tin plasma</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bayerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eikema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevapplied.12.014010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Appl</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">14010</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Radiation transport and scaling of optical depth in Nd:YAG laser-produced microdroplet-tin plasma</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bayerle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Schafgans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Purvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S E</forename><surname>Eikema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.5117504</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">115</biblScope>
+			<biblScope unit="page">124101</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">EUV spectroscopy of Sn 5+ -Sn 10+ ions in an electron beam ion trap and laserproduced plasmas</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bouza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ryabtsev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Behnke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Shah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R C</forename><surname>López-Urrutia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1361-6455/aba3a8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. B: At., Mol. Opt. Phys</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">195001</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Characterization of 1-and 2-μm-wavelength laser-produced microdroplet-tin plasma for generating extreme-ultraviolet light</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Behnke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bouza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevresearch.3.013294</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">13294</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Extreme ultraviolet light from a tin plasma driven by a 2-μm-wavelength laser</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Behnke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bouza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Mazzotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1364/oe.411539</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Express</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="4475" to="4487" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Absolute evaluation of out-of-band radiation from laser-produced tin plasmas for extreme ultraviolet lithography</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sakaguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fujioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tanuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shimomura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Nakai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Norimatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sunahara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nishihara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Miyanaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Izawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mima</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.2901875</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Phys. Lett</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page">111503</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Characterization of out-of-band radiation and plasma parameters in laser-produced Sn plasmas for extreme ultraviolet lithography light sources</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Namba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Fujioka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sakaguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nishimura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nagai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Miyanaga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Izawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Takiyama</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.2952033</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page">13305</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Spectral emission properties of a laser-produced plasma light source in the sub-200 nm range for wafer inspection applications</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gambino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rollinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hudgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Abhari</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/1.jmm.14.3.034002</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Micro/Nanolithogr., MEMS, MOEMS</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">34002</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Vacuum ultraviolet spectral emission properties of Ga, In and Sn droplet-based laser produced plasmas</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Gambino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Rollinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brandstätter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Abhari</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.sab.2016.06.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Spectrochim. Acta, Part B</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="149" to="156" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Time-and space-resolved optical Stark spectroscopy in the afterglow of laserproduced tin-droplet plasma</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevE.102.013204</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. E</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page">13204</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Laser-produced plasma source system development</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V</forename><surname>Fomenkov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Brandt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Bykanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Ershov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Partlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Böwering</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">O</forename><surname>Vaschenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">V</forename><surname>Khodykin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Hoffman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Chavez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Chrobak</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.713454</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE</title>
+		<meeting>SPIE</meeting>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">6517</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">The effect of laser wavelength on emission and particle dynamics of Sn plasma</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Harilal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hassanein</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.3493118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page">113305</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Black border, mask 3D effects: Covering challenges of EUV mask architecture for 22 nm node and beyond</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Davydova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Setten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Kruif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Connolly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Fukugami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kodera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Morimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sakata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kotani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kondo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Imoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Rolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ullrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Jaganatharaja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lammers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Oorschot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C.-W</forename><surname>Man</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schiffelers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Dijk</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.2066299</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE</title>
+		<meeting>SPIE</meeting>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">9231</biblScope>
+			<biblScope unit="page">923102</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Ultraviolet out-ofband radiation studies in laser tin plasma sources</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Parchamy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Szilagyi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Masnavi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Richardson</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4986782</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">173303</biblScope>
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Spectral purity performance of high-power EUV systems</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van De Kerkhof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meeuwissen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>De Kruif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Davydova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Schiffelers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Wählisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Setten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Varenkamp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ricken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Winter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcnamara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.2551021</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE 11323</title>
+		<meeting>SPIE 11323</meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+			<biblScope unit="page">1132321</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">High-power EUV lithography: Spectral purity and imaging performance</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Van De Kerkhof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Meeuwissen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>De Kruif</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">V</forename><surname>Davydova</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/1.jmm.19.3.033801</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Micro/Nanolithogr., MEMS, MOEMS</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">33801</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Transient thermal and structural deformation and its impact on optical performance of projection optics for extreme ultraviolet lithography</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fan</surname></persName>
+		</author>
+		<idno type="DOI">10.1143/jjap.46.6568</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn. J. Appl. Phys., Part</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="6568" to="6572" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Analysis and control of thermal and structural deformation of projection optics for 22-nm EUV lithography</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Li</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.916275</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE</title>
+		<meeting>SPIE</meeting>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">8322</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Exploring the electron density in plasma induced by EUV radiation: I. Experimental study in hydrogen</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Van Der Horst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Beckers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Osorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">I</forename><surname>Astakhov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Goedheer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">V</forename><surname>Ivanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Krivtsum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">N</forename><surname>Koshelev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Lopaev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bijkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">Y</forename><surname>Banine</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/0022-3727/49/14/145203</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. D: Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page">145203</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">High-energy Nd:YAG laser system with arbitrary sub-nanosecond pulse shaping capability</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Stodolna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S E</forename><surname>Eikema</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<idno type="DOI">10.1364/ol.42.002758</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Lett</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="2758" to="2761" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Plasma propulsion of a metallic microdroplet and its deformation upon laser impact</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Klein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lassise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gelderblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevapplied.6.014018</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Appl</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">14018</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Power-law scaling of plasma pressure on laser-ablated tin microdroplets</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Basko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Torretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Visschers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Scheers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.5010899</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Plasmas</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">12709</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Mass loss from a stretching semitransparent sheet of liquid tin</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gelderblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/physrevapplied.13.024035</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys. Rev. Appl</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">24035</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Laser-induced vaporization of a stretching sheet of liquid tin</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Meijer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hernandez-Rueda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kurilovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Mazzotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/5.0036352</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page">53302</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Characterization of angularly resolved EUV emission from 2-μm-wavelength laser-driven Sn plasmas using preformed liquid disk targets</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Behnke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Bouza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Mazzotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Mostafa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lassise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Poirier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sheil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ubachs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hoekstra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">O</forename><surname>Versolato</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1361-6463/ac0b70</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J. Phys. D: Appl. Phys</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page">365103</biblScope>
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Fabrication and characterization of free-standing, high-line-density transmission gratings for the vacuum UV to soft X-ray range</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Goh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J M</forename><surname>Bastiaens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vratzov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bijkerk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Boller</surname></persName>
+		</author>
+		<idno type="DOI">10.1364/oe.23.004421</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Express</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="4421" to="4434" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Broadband transmission grating spectrometer for measuring the emission spectrum of EUV sources</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bayraktar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M J</forename><surname>Bastiaens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bruineman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Vratzov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bijkerk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NEVAC Blad</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="14" to="19" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">X-ray interactions: Photoabsorption, scattering, transmission, and reflection at E = 50-30,000 eV, Z = 1-92</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Henke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Gullikson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Davis</surname></persName>
+		</author>
+		<idno type="DOI">10.1006/adnd.1993.1013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">At. Data Nucl. Data Tables</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="181" to="342" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Zirconium and niobium transmission data at wavelengths from 11-16 nm and 200-1200 nm</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Soufli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Gullikson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Clift</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.564259</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE</title>
+		<meeting>SPIE</meeting>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">5538</biblScope>
+			<biblScope unit="page" from="119" to="124" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Analysis of soft x-ray/VUV transmission characteristics of Si and Al filters</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Joseph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Modi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Gupta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Lodha</surname></persName>
+		</author>
+		<idno type="DOI">10.1063/1.4791129</idno>
+	</analytic>
+	<monogr>
+		<title level="j">AIP Conf. Proc</title>
+		<imprint>
+			<biblScope unit="volume">1512</biblScope>
+			<biblScope unit="page" from="498" to="499" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">58 greateyes GmbH, Scientific full-frame CCD cameras for VUV, EUV, x-ray imaging and spectroscopy</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Vedder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Lindblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Powell</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.55641</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Opt. Eng</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="614" to="624" />
+			<date type="published" when="1990">1990. 2017</date>
+		</imprint>
+	</monogr>
+	<note>Thin film filter performance for extreme ultraviolet and x-ray applications</note>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Comparison of back-thinned detector ultraviolet quantum efficiency for two commercially available passivation treatments</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heymes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Soman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Randall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gottwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Moody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Holland</surname></persName>
+		</author>
+		<idno type="DOI">10.1109/tns.2020.3001622</idno>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Trans. Nucl. Sci</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1962" to="1967" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Janesick</surname></persName>
+		</author>
+		<title level="m">Scientific Charge-Coupled Devices</title>
+		<imprint>
+			<publisher>SPIE Press</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Calibrating Teledyne-e2v&apos;s ultraviolet image sensor quantum efficiency processes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heymes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Soman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Buggey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Crews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Randall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gottwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kelt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kroth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Moody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Meng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ogor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Holland</surname></persName>
+		</author>
+		<idno type="DOI">10.1117/12.2559711</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Proc. SPIE 11454, 114541G</title>
+		<meeting>SPIE 11454, 114541G</meeting>
+		<imprint>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Quantum efficiency measurements and modeling of ion-implanted, laser-annealed charge-coupled devices: X-ray, extreme-ultraviolet, ultraviolet, and optical data</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Stern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Blouke</surname></persName>
+		</author>
+		<idno type="DOI">10.1364/ao.33.002521</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Opt</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="2521" to="2533" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Characterization of a charge-coupleddevice detector in the 1100-0.14-nm (1-eV to 9-keV) spectral region</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Poletto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Boscolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Tondello</surname></persName>
+		</author>
+		<idno type="DOI">10.1364/ao.38.000029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Appl. Opt</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="29" to="36" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Quantum efficiency of back-illuminated CCD detectors in the VUV region (30-200nm)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Garnir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P.-H</forename><surname>Lefèbvre</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.nimb.2005.03.238</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucl. Instrum. Methods Phys. Res., Sect. B</title>
+		<imprint>
+			<biblScope unit="volume">235</biblScope>
+			<biblScope unit="page" from="530" to="534" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

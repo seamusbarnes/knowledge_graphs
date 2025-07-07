@@ -1,0 +1,1209 @@
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ViewOnlineExportCitationRESEARCH ARTICLE| DECEMBER 02 2021The spectrum of a 1-μm-wavelength-driven tin microdropletlaser-produced plasma source in the 5.5–265.5 nmwavelength rangeZ. Bouza  ; J. Byers  ; J. Scheers  ; R. Schupp  ; Y. Mostafa; L. Behnke; Z. Mazzotta  ; J. Sheil  ;W. Ubachs  ; R. Hoekstra  ; M. Bayraktar  ; O. O. Versolato AIP Advances 11, 125003 (2021)https://doi.org/10.1063/5.0073839Articles You May Be Interested InRadiation transport and scaling of optical depth in Nd:YAG laser-produced microdroplet-tin plasmaAppl. Phys. Lett. (September 2019)Production of 13.5 nm light with 5% conversion efficiency from 2 μ m laser-driven tin microdroplet plasmaAppl. Phys. Lett. (December 2023)Laser-induced vaporization of a stretching sheet of liquid tinJ. Appl. Phys. (February 2021) 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+The spectrum of a 1-μm-wavelength-driven tin
+microdroplet laser-produced plasma source
+in the 5.5–265.5 nm wavelength range
+
+Cite as: AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+Submitted: 4 October 2021 • Accepted: 5 November 2021 •
+Published Online: 2 December 2021
+
+Z. Bouza,1
+W. Ubachs,1,3
+
+J. Byers,2
+
+J. Scheers,1,3
+
+R. Schupp,1
+
+Y. Mostafa,1 L. Behnke,1 Z. Mazzotta,1
+
+J. Sheil,1
+
+R. Hoekstra,1,4
+
+M. Bayraktar,2
+
+and O. O. Versolato1,3a)
+
+AFFILIATIONS
+
+1 Advanced Research Center for Nanolithography, Science Park 106, 1098 XG Amsterdam, The Netherlands
+2 Industrial Focus Group XUV Optics, MESA+ Institute for Nanotechnology, University of Twente,
+Drienerlolaan 5, 7522 NB Enschede, The Netherlands
+3 Department of Physics and Astronomy, and LaserLaB, Vrije Universiteit, De Boelelaan 1081, 1081 HV Amsterdam,
+The Netherlands
+4Zernike Institute for Advanced Materials, University of Groningen, Nijenborgh 4, 9747 AG Groningen, The Netherlands
+
+a)Author to whom correspondence should be addressed: versolato@arcnl.nl
+
+ABSTRACT
+
+We present a calibrated spectrum in the 5.5–265.5 nm range from a microdroplet-tin Nd:YAG-laser-produced plasma under conditions
+relevant for the production of extreme ultraviolet (EUV) light at 13.5 nm for nanolithography. The plasma emission spectrum obtained
+using a custom-built transmission grating spectrometer results from a careful calibration of a series of filters enabling measurements free
+of any higher diffraction orders. Specifically, Zr, Si, and Al thin-foil filters and bulk LiF, MgF2, and UV fused silica filters are employed. A
+further filter using four SiC mirrors is used to record the otherwise inaccessible 40–100 nm range. The resulting corrected and concatenated
+spectra are shown to accurately match in their respective overlap regions. The possibility to measure spectra over this broad range enables
+the optimization of current and future sources of EUV light for nanolithography by providing the diagnostics required for minimizing the
+emission of unwanted wavelength bands.
+
+© 2021 Author(s). All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license
+(http://creativecommons.org/licenses/by/4.0/). https://doi.org/10.1063/5.0073839
+
+I. INTRODUCTION
+
+Laser-produced plasma (LPP) generated from liquid tin (Sn)
+microdroplets provides extreme ultraviolet (EUV) light for mod-
+ern nanolithography,1–7 enabling the continued reduction of feature
+sizes on affordable integrated circuits (ICs). Such laser-produced
+plasmas of tin are characterized by a strong emission peak near
+13.5 nm, originating from transitions between complex excited
+states in multiply charged Sn10+–Sn15+ ions.8–17
+
+Multilayer optics are used in industrial lithography machines
+to collect the EUV light from its source and to provide an image
+of the so-called mask onto the wafer. These optics are designed to
+reflect wavelengths in a 2%-wavelength bandwidth centered around
+13.5 nm (the bandwidth limitation is, in part, due to the many ∼10
+required reflective surfaces).18,19 As such, most spectroscopic works
+
+on Sn LPPs have focused on the “in-band” wavelength region17,20–24
+or on nearby out-of-band (OOB) EUV emission features,14,23,25–31
+spectral regions of which may help diagnose the plasma in terms
+of its main in-band emitters’ charge states or temperature. Little
+spectroscopic information is available for longer vacuum (VUV)-
+and deep-ultraviolet (DUV) wavelengths, in particular, in terms of
+relative (or absolute) emission intensities. Available spectra in the lit-
+erature show either vacuum- or deep-ultraviolet spectra without the
+EUV region around 13.5 nm,32–36 or if the EUV region is presented,
+the spectral range between EUV and DUV is not shown.37–42
+
+VUV/DUV emission may be transported through the multi-
+layer optics systems and expose the wafer. Given the significant pho-
+ton energy, this exposure may influence the chemical processes on
+the wafer and negatively impact imaging contrast and quality.43,44 As
+such, it is of significant interest to understand in detail the spectrum
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-1
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+of EUV generating LPPs in terms of their absolute emission inten-
+sity. This will enable identifying the origins of many yet-unknown
+emission features and enable the development of mitigation strate-
+gies, i.e., minimize the OOB emission. In particular, the wavelength
+range of 30–90 nm is important for EUV lithography due to the
+strong absorption by hydrogen, which is present as a buffer gas in
+the EUV source chambers. Photoionization of hydrogen molecules
+by DUV radiation generates plasmas in the scanner that can degrade
+important optical components.45 It is challenging to obtain the
+source spectrum in this wavelength range due to strong contribu-
+tions from higher diffraction orders of the very strong emission
+feature centered around 13.5 nm.
+
+We present an intensity-calibrated spectrum of a droplet-based
+tin plasma driven by 1-μm laser light in the wavelength range
+between 5.5 and 265.5 nm. A custom-built transmission grating
+spectrometer (TGS) is used to record the spectrum using a 1000 lines
+per mm grating. Higher diffraction orders, which would otherwise
+render impossible the detection of longer wavelengths, are elimi-
+nated by using Zr, Si, Al, LiF, MgF2, and UV fused silica (UVFS)
+filters. An additional novel filter using four SiC mirrors is used to
+record the 40–100 nm region, which would, given the dominant con-
+tribution from the higher diffraction orders of the EUV band if unfil-
+tered, otherwise remain inaccessible. Careful calibration of these fil-
+ters and the transmission grating combined with the response of the
+camera enables the absolute calibration of the full operating band
+and obtaining a spectrum free of any higher diffraction orders.
+
+II. EXPERIMENTAL SETUP
+
+a
+
+relatively
+
+are first
+
+irradiated by
+
+In our experiments, molten tin microdroplets of 46 μm dia-
+meter
+low intensity
+(∼109 W/cm2), 1-μm-wavelength pre-pulse (PP) from an Nd:YAG
+laser.46 The microdroplets are dispensed from a droplet generator
+inside a vacuum vessel with a background pressure of ∼10−6 mbar.
+The beam profile of the PP laser is Gaussian with a spatial full width
+at half maximum (FWHM) of 97 μm. The temporal profile is a
+Gaussian with a FWHM of 29 ns. For the presented experiments, a
+constant PP energy of 6.8 mJ was used. The PP deforms the droplets
+into thin sheet targets, which are radially symmetric and thickest in
+their center.47–51 The target diameter is controlled via a time delay
+between the pre- and main pulses (MPs), and for our experiments,
+the time delay is set to 2000 ns, leading to a target diameter of
+∼320 μm.
+
+FIG. 1. Experimental setup showing the front- and side-view shadowgraphs of the
+tin targets used for plasma generation as recorded by two cameras. The upper
+boxed figure is a schematic of the transmission grating spectrometer.
+
+resolution of 0.8 nm at 13.5 nm.52 The use of the 1000 lines/mm
+transmission grating allows one to record emission in the 5.5–265.5
+nm-wavelength region. The limits to this specific 5.5–265.5 nm
+range are set on the short wavelength side by the onset (>5.5 nm)
+of the availability of calibration data for the diffraction grating (see
+Sec. III B). On the long wavelength side, the limit (<265.5 nm) is due
+to the geometry of the spectrometer. Furthermore, the spectrome-
+ter contains Zr, Si, Al, LiF, MgF2, and UVFS filters and SiC mirrors
+as tabulated in Table I. The Zr, Si, and Al filters are foil filters with
+a common thickness of 200 nm. The foils are supported with a Ni
+mesh with 10 lines/in. period. The SiC system comprises four bulk-
+SiC mirrors placed under an angle of 45○ with respect to the optical
+axis (see Fig. 1). The transmission grating, the Zr, Si, and Al filters,
+and the SiC mirrors are calibrated at the beamline facilities of the
+Physikalisch-Technische Bundesanstalt (PTB), at the BESSY-II syn-
+chrotron, Berlin, limited to wavelengths >5.5 nm. The LiF, MgF2 and
+UVFS filters are calibrated for wavelengths down to 115 nm using a
+vacuum-ultraviolet spectrograph equipped with a deuterium lamp.
+The diffracted light in the TGS is recorded on a back-
+illuminated charge-coupled device (CCD) from greateyes GmbH
+(GE2048 512BI UV1). The CCD is cooled to −30 ○C to reduce
+thermal noise. Background images are then subtracted from the
+recorded spectra to eliminate the dark counts and read-out noise.
+The resulting CCD images are cropped and corrected for shear and
+
+After the PP, the targets are irradiated with a high-intensity
+1-μm-wavelength main pulse (MP) from a Nd:YAG laser. The pulse
+duration of the MP is 10 ns, and the focal spot has a Gaussian beam
+profile with a FWHM of 103 μm. For the presented experiments,
+a fixed laser intensity of 2.3 × 1011 W/cm2 was employed using a
+pulse energy of 293 mJ. The intensity was calculated as described in
+Ref. 27. Additional details regarding the droplet-based experimen-
+tal setup can be found in Ref. 47. Finally, a simplified scheme of the
+experimental setup is presented in Fig. 1.
+
+The spectral emission from the Sn laser-produced plasma is
+recorded using a broadband transmission grating spectrometer52,53
+placed under an angle of 60○ with respect to the incoming laser
+light. The different elements in the TGS are shown schematically in
+Fig. 1. The spectrometer is operated with a slit width of 50 μm and a
+1000 lines/mm transmission grating, achieving a FWHM instrument
+
+TABLE I. Filters used in the spectral measurements with the transmission grating
+spectrometer. All short wavelength cutoffs are specified at 50% of the maximum
+transmission shown in Figs. 2–4.
+
+Filter material
+
+Filter type
+
+Thickness
+
+Short wavelength
+cutoff (nm)
+
+Zr
+Si
+Al
+SiC
+LiF
+MgF2
+UVFS
+
+Foil
+Foil
+Foil
+Mirrors
+Window
+Window
+Window
+
+200 nm
+200 nm
+200 nm
+1 mm
+2 mm
+2 mm
+2 mm
+
+6.1
+12.5
+17
+55
+129
+<115a
+165
+
+aAt 115 nm, the transmission is ∼53% of the maximum.
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-2
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+tilt that may be introduced by a misalignment of the slit and the grat-
+ing with respect to the CCD pixel array. Next, the pixel counts are
+averaged along the non-dispersive axis and corrected for the respec-
+tive exposure times. The resulting spectra are then corrected for filter
+efficiency, the first-order diffraction efficiency of the grating, the
+camera response, and the solid angle of the spectrometer. The spec-
+trometer has a solid angle of 37 × 10−11 sr that is calculated using the
+slit width, pixel size, and distance to the plasma.
+
+For the wavelength calibration, a measurement with the Al filter
+is used. The sharp filter edge at 17.056 nm54 and its higher orders
+enable accurate calibration of the wavelength axis. Here, the higher
+diffraction orders are advantageous for wavelength calibration.
+
+III. RESULTS
+
+In this section, three necessary types of corrections are applied
+to the raw spectra, namely, the (A) filter transmission, (B) grating
+diffraction efficiency, and (C) CCD response.
+
+A. Filter transmission
+
+Spectra were recorded in the 5.5–265.5 nm-wavelength region
+using different filters. The advantage of capturing spectra using
+different filters is that each filter allows for the measurement of
+different wavelength regions clear from higher-order contributions.
+In the following, we sub-divide our discussion of the 5.5–265.5 nm
+spectra into three regions: (1) 5.5–40 nm, (2) 40–115 nm, and (3)
+115–265.5 nm, and we discuss each region individually.
+
+1. 5.5–40 nm wavelength range
+
+For the investigation of the 5.5–40 nm wavelength range, we
+recorded four sets of spectra using (i) no filter and the filters (ii) Zr,
+(iii) Si, and (iv) Al. The measured spectra are presented in Fig. 2(a).
+The Zr filter has a cutoff at ∼6.1 nm that allows for recording
+a higher-order-free tin LPP spectrum in the ∼6.1 to 12.2 nm region.
+The Si filter exhibits a cutoff at ∼12.5 nm, so in that way, the spec-
+trum is pure in the range of ∼12.5 to 25 nm. The Al filter has the
+advantage of a longer wavelength cutoff at ∼17 nm such that all
+orders of the strong 13.5 nm emission feature are absent and a clean
+measurement in the range ∼17 to 34 nm is possible.
+
+The transmission functions of the various filters are tabulated
+in the CXRO database;54 however, such transmission data are only
+valid for pristine samples. These filters typically suffer from oxida-
+tion and are subject to contamination from hydrocarbons and tin
+deposition. To obtain reliable transmission functions, the filters are
+calibrated at the PTB in Berlin. The calibration results are shown
+in Figs. 2(b)–2(d). The calibration procedure comprises two steps.
+First, for each filter type, the entire filter area was sampled at a sin-
+gle wavelength (13.5 nm for the Al filter and 17.5 nm for the Si and
+Zr filters) using a 0.5 × 0.5 mm2 beam, enabling one to obtain a
+detailed “map” of the transmission. Second, at one particular posi-
+tion on the filter (indicated by red squares in the inset figures), the
+full wavelength range is measured. The recorded transmission func-
+tion was subsequently scaled by a factor proportional to the average
+transmission at the wavelength of the first measurement step (within
+the filter window indicated by the black circle in the inset figures).
+The error bars on this scaled transmission curve [red data points in
+Figs. 2(b)–2(d)] represent one standard deviation from the average
+across the filter.
+
+FIG. 2. (a) Raw emission spectra obtained from tin LPP using Zr, Si, and Al fil-
+ters, and using no filter. ADU: arithmetic digital unit. Filter transmissions for (b) Zr,
+(c) Si, and (d) Al filters. The experimental ratio is the result of the division of the
+respective filtered by the unfiltered spectra, the calibration is from PTB, and the
+fitted curve is obtained taking oxidation into account, while the nominal one is
+the transmission obtained CXRO. Insets: transmission maps measured at 13.5 nm
+for Zr and Si and at 17.5 nm for Al. Red squares depict the location of the filter used
+for the wavelength scan. (e) Spectra corrected for the respective filter transmission
+functions.
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-3
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+Superimposed in black in the same figures are experimental
+estimates of the transmission function. These estimates are obtained
+by dividing the respective filtered spectra by the unfiltered spectra.
+These ratios may serve only as estimates as they are influenced by
+higher diffraction orders.
+
+In all cases, the filter transmission is significantly lower than
+theoretical transmission that would be obtained from the CXRO
+database using the nominal thickness (shown as light gray lines).
+In an attempt to quantitatively explain the differences between the
+calibration and nominal CXRO database entries, we simulate the
+influence of finite oxidation of the filter surfaces using the following
+equation (Al as an example):
+
+T = exp(−nAlμAldAl) × exp(−nAl2O3 μAl2O3 dAl2O3
+
+).
+
+(1)
+
+The symbols n, μ, and d represent the number of atoms per unit
+volume, atomic photo-absorption cross section, and thickness of the
+material, respectively. Thin film interference effects are verified to be
+negligible. We also accounted for the thickness of the non-oxidized
+part of the filter, and the fraction of the filter material in the oxide
+layer sums up to the nominal thickness. The fraction of the filter
+material in the oxide layer is calculated by considering the atomic
+weights of the pure filter material and the oxidized filter material.
+For Al, this fraction is calculated as WAl/WAl2O3 , where W is the
+atomic/molecular weight. This consideration allows fitting the T(λ)
+function to the PTB measured transmission curve with a single free
+fit parameter, namely, the thickness of the oxide layer. The fit results
+shown in Fig. 2 are in good agreement with the calibration data. The
+obtained oxide thicknesses range from 17 nm in the Al filter case to
+49 nm in the Zr filter case. We find optimum agreement between
+the simulated and experimentally determined calibration curves for
+the oxide layer thickness of 49 nm ZrO2 layer (with 169 nm pure Zr
+remaining), 19 nm SiO2 (192 nm pure Si), and 17 nm Al2O3 (193 nm
+pure Al). The substantial oxide layers (we assume that the oxide layer
+is divided between front and back sides of the filter) are, in fact,
+in agreement with the expected oxide layer thickness of such metal
+foils. More specifically, it has been shown in Ref. 55 using Auger
+depth profiling that a 100 nm thick Zr filter can have 10 nm thick
+oxide layers on both sides of the filter. The total oxide layer thick-
+ness in Ref. 55 is of the same order of magnitude as the oxide layer
+thickness we have found. The same study55 further shows that car-
+bon and carbide mixed with Zr are also present throughout the filter,
+decreasing the transmission further. Since carbon and carbide mix-
+ing is not taken into account in our analysis, our calculations may
+overestimate the ZrO2 layer thickness. For the Si filter, a total oxide
+layer thickness of 66 nm has been reported, somewhat thicker than
+what we found.56 For the Al filter, oxide thicknesses around 15 nm
+have been reported, which match well with the 17 nm thickness that
+is found here.56,57 All in all, the PTB-calibrated transmission curves
+can be well understood from our model assuming a relatively thick
+oxide layer coating the pure filter surfaces.
+
+Next, the spectra are corrected with the filter transmission data
+from PTB, the results of which are shown in Fig. 2(e). The corrected
+spectra are shown starting from the short wavelength cutoff of each
+filter onward until the calibrated transmission drops below 10%. The
+corrected spectra are in very good agreement with each other [cf.
+Fig. 2(e)]. The dominant remaining difference is visible at 40 nm
+
+wavelength and can be attributed to the third-order contribution
+of the main emission feature at 13.5 nm that here only impacts
+the unfiltered spectrum and the Si filtered spectrum (the Zr-filtered
+spectrum is shown up to 18 nm where the transmission drops below
+10%). The Al-filtered spectrum is free of this third-order diffraction
+feature and will be used for this wavelength range.
+
+2. 40–115 nm wavelength range
+
+For the investigation of the 40–115 nm wavelength range, we
+use the SiC mirrors. In Fig. 3(a), the spectrum obtained using the SiC
+mirrors is presented. In the same figure, a scaled unfiltered spectrum
+is also presented for comparison. The peak in the unfiltered spec-
+trum in the 65–70 nm range can be attributed to the fifth diffraction
+order of the dominant 13.5 nm emission feature. The spectral inten-
+sities in the SiC mirror measurements are between two and three
+orders of magnitude lower than the unfiltered spectrum.
+
+The SiC mirrors were sent to PTB for calibration in order to
+measure its total reflection efficiency. The resulting calibration is
+compared to the theoretical response curve in Fig. 3(b). The dif-
+ference can be attributed partially to contamination but also to
+scattering due to roughness.
+
+The LPP spectrum is then corrected with the reflectivity cali-
+bration data from PTB, the results of which are shown in Fig. 3(c).
+
+FIG. 3. (a) Raw tin LPP emission spectra using the SiC mirrors and no filter.
+The unfiltered spectrum is multiplied by ×0.007 for better visibility. (b) SiC mir-
+ror reflectivity curves: one calibrated by PTB and one from theory (see main text).
+(c) Unfiltered spectrum and spectrum corrected for the SiC mirror reflectivity.
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-4
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+The unfiltered and SiC filtered spectra show significant differences,
+highlighting the important contribution from higher orders to the
+spectrum and emphasizing the need for suppression of higher orders
+using filters as is done here.
+
+3. 115–265.5 nm wavelength range
+
+To investigate the 115–265.5 nm wavelength range, we have
+recorded spectra using (i) no filter and the filters (ii) LiF, (iii) MgF2,
+and (iv) UVFS. The spectra are shown in Fig. 4(a). The spectrum
+with the LiF filter extends smoothly below 115 nm, but the spec-
+trum recorded using the MgF2 filter exhibits a steep decrease. The
+UVFS filter has the longest cutoff wavelength at 165 nm. All filters
+transmit at wavelengths above 265.5 nm, which is the limit of the
+measurement range set by the spectrometer.
+
+In Fig. 4(b), the calibrated transmission efficiency curves of the
+three filters used for this wavelength region are presented. Since
+the upper limit of the wavelength axis of our recorded spectra is
+∼265.5 nm, a combination of two of the filters (either LiF or MgF2
+with UVFS) in the 115–265.5 nm range will fully suppress all
+higher-order contributions.
+
+We present the filter-corrected spectra in Fig. 4(c). The three
+filter-corrected spectra are generally in good agreement with each
+other. The most significant difference, occurring below 120 nm, is
+
+FIG. 4. (a) Raw emission spectra from a tin LPP using the LiF, MgF2, and UVFS
+filter and no filter. The unfiltered spectrum is multiplied by ×0.1 for better visibility.
+(b) Filter transmission curves for the various filters. (c) Spectra corrected for the
+respective filter transmission functions.
+
+FIG. 5. Concatenated spectra from tin LPP using the various filters, corrected for
+the respective transmission functions (see main text). The chosen range for each
+spectrum is free of any higher diffraction orders. The unfiltered spectrum is also
+shown for comparison.
+
+related to the accuracy of the onset of the transmission of the MgF2
+filter and the precision of the relative wavelength calibration of the
+experiments and calibration. The comparison between the unfiltered
+spectrum and the filter-corrected spectra highlights the prominent
+contribution from high diffraction orders. The apparent intensity,
+i.e., counts, of the unfiltered spectrum is more than an order of mag-
+nitude stronger than the true signal, thus emphasizing the need to
+use filters.
+
+In Fig. 5, we present the full spectrum in the 5.5–265.5 nm
+wavelength range obtained from concatenating the filtered spec-
+tra using only their respective ranges free of any higher diffrac-
+tion orders. The individual y-axis values are shown to accurately
+“connect” at the respective overlap regions. We note that no free
+fit factors have been used to obtain this match. Instead, it is the
+accurate calibration of the filter transmissions that enables this good
+agreement. As seen before, strong contributions from higher diffrac-
+tion orders are visible. In particular, the odd multiples of the main
+13.5 nm emission feature stand out, starting from the third diffrac-
+tion order.
+
+B. Grating diffraction efficiency
+
+The first-order diffraction efficiency of the grating is shown
+in Fig. 6(a), as obtained from calibration at PTB. The feature that
+stands out is the “kink” near 12 nm that originates from the Si
+L-edge absorption in the Si3N4 material present in the transmission
+grating.52
+
+C. CCD response
+
+The CCD camera response is a product of three components:
+the gain, quantum yield (QY), and quantum efficiency (QE).60 The
+gain relates the ADU to the generated electrons and has the units of
+ADU/e−. For the camera that is used in this experiment, the camera
+gain is specified by the manufacturer58 as 0.83 ADU/e−.
+
+The QY is defined as the number of electrons generated per
+detected photon and is proportional to the energy of the photon.
+A typical assumption in the EUV and VUV wavelength ranges59,61 is
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-5
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+TABLE II. Energy emitted toward the spectrometer, i.e., under a 60○ angle (cf. Fig. 1)
+in the various wavelength ranges using manufacturer QE data (cf. Fig. 6).
+
+Wavelength
+range (nm)
+
+Corresponding
+filter
+
+Energy
+(mJ shot−1 sr−1)
+
+(%) of total
+energy
+
+5.5–17.5
+(13.5 nm ±1%a)
+17.5–42.5
+42.5–115
+115–175.5
+175.5–265.5
+
+Total energy
+
+Zr
+(Zr)
+Al
+SiC
+LiF
+UVFS
+
+7.1
+(0.4)
+4.2
+1.5
+0.2
+0.03
+
+13.0
+
+54.7
+(3.1)
+32.5
+11.4
+1.2
+0.2
+
+aThe value for the energy emitted in the 2%-wavelength bandwidth centered around
+13.5 nm is impacted on by the limited resolution of the spectrometer (0.8 nm at
+13.5 nm).
+
+work.59 The differences between the available QE curves may be due
+to dissimilarities in manufacturing processes or, for instance, due
+to possible aging effects. Considering the significant differences, the
+overall uncertainty in our final spectrum is expected to be dominated
+by the QE curve.
+
+As the final step, the concatenated spectra of Fig. 5 are cor-
+rected for the camera response (gain, QY, and QE) together with
+the solid angle of the spectrometer (37 × 10−11 sr), and the resulting
+corrected full-range spectrum is shown in Fig. 6(b). Integral ener-
+gies emitted in the various wavelength ranges, following the filters
+used, are presented in Table II. The final corrections, using either QE
+curve, produce a “knee” near 120 nm wavelength that is not visible
+in the concatenated data of Fig. 5, which may point at a discrepancy
+between the true QE and the available QE curves.
+
+Further corrections for the source size (possibly weakly
+wavelength-dependent) and for the precise time dependence of the
+transient emission are required to interpret the obtained intensity
+in terms of spectral radiance. These steps are left as future work but
+may be expected to have only limited impact on the overall shape
+of the emission spectrum, as shown in Fig. 6(b). Nevertheless, the
+obtained spectrum enables diagnosing the energy distribution of the
+LPP that is useful for optimizing the LPP based EUV sources.
+
+IV. CONCLUSIONS
+
+We present a fully calibrated spectrum in the 5.5–265.5 nm
+range from a microdroplet-tin Nd:YAG-laser-produced plasma. The
+spectrum obtained using a transmission grating spectrometer is the
+result of a careful calibration of a series of filters enabling measure-
+ments free of any higher diffraction orders. Specifically, we use Zr,
+Si, and Al foil filters and bulk LiF, MgF2, and UVFS filters. A fur-
+ther filter using four SiC mirrors is used to record the otherwise
+inaccessible 40–100 nm region. The photon energy in this partic-
+ular wavelength range is significant and provides input for further
+studies on the impact of EUV-induced-plasma in the EUV source
+vessel. The fully corrected and concatenated spectra are shown to
+accurately match in their respective overlap regions, demonstrating
+the accuracy of the calibration procedure. The dominant remaining
+uncertainty stems from the correction for quantum efficiency. Our
+calibration enables the optimization of current and future sources
+of EUV light for nanolithography by providing metrology for
+
+FIG. 6. (a) Grating efficiency for the first diffraction order and QE of the CCD cam-
+era, comparing manufacturer QE58 or experimental QE59 data (see main text). (b)
+Concatenated spectra (cf. Fig. 5) after correcting for the diffraction efficiency of the
+grating and the CCD response using either manufacturer or experimental QE data
+and solid angle.
+
+that a photon energy of 3.66 eV, which corresponds to the indirect
+bandgap of Si, is needed to generate an electron. A detected photon
+of energy E would thus generate E/(3.66 eV) electrons. As pointed
+out also by Heymes et al.,61 this assumption breaks down in the opti-
+cal range where QY will instead converge to a value of 1. In the here
+studied wavelength range, however, the simple 1/3.66 e−/eV rule is
+in good agreement with a more detailed treatment.59,60 Correcting
+for QY enables converting the number of electrons to the number of
+detected photons or to the amount of detected energy in units of eV
+with a proportionality constant of 3.66. Hence, the QY for the wave-
+length range explored in this work can be written in units of e−/eV
+or e−/mJ as QY = 1/3.66e−/eV = 1.71 × 1015e−/mJ.
+
+The QE is defined as the ratio of the number of detected pho-
+tons to the number of photons arriving on the detector surface.
+Hence, it is also equal to the ratio of detected to incident energy.
+In Fig. 6(a), we show two such quantum efficiency curves. The first
+is obtained from the manufacturer of the CCD used in our experi-
+ments.58 We note however that the calibration provided by the man-
+ufacturer depends, in part, on simulations and not experiments.62
+According to their simulations, the sharp edge around 120 nm
+originates from thin film interference, assuming a sharp interface
+between the assumed SiO2 layer and the active Si CCD surface. In
+reality, the boundary is expected to be less sharp due to intermixing.
+As a result, the QE curve is expected to have a smoother shape. In
+search of experimental support for our QE calibration, we employ
+the recent results.59 Further experimental QE studies are found in
+previous works.62–64 Comparing the two QE curves in Fig. 6(a), we
+note that there is a striking difference near 120 nm where a sharp,
+steep edge is visible in the QE from the manufacturer, which is not
+supported (either in amplitude or shape) by recent experimental
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-6
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+minimizing the emission of unwanted wavelength bands that may
+limit imaging contrast or even impact machine uptime.
+
+SUPPLEMENTARY MATERIAL
+
+See the supplementary material for the data presented in Figs. 5
+
+and 6(b).
+
+ACKNOWLEDGMENTS
+
+Part of this work was carried out within the Advanced Research
+Center for Nanolithography, a public-private partnership of the
+University of Amsterdam, the Vrije Universiteit Amsterdam, the
+Dutch Research Council (NWO), and the semiconductor equipment
+manufacturer ASML, and was financed by Toeslag voor Topconsor-
+tia voor Kennis en Innovatie from the Dutch Ministry of Economic
+Affairs. The transmission grating spectrometer was developed in the
+Industrial Focus Group XUV Optics at the University of Twente
+and supported by the FOM Valorisation Prize 2011 awarded to F.
+Bijkerk and the NanoNextNL Valorization Grant awarded to M.
+Bayraktar in 2015. This project was funded by TKI-HTSM under
+the project name “Spectral Unraveling of EUV Lithography Light
+Sources (SUN).” This project received further funding from Euro-
+pean Research Council Starting Grant No. 802648 and is part of the
+VIDI research program under Project No. 15697, which is financed
+by NWO. The authors would like to thank Dr. Julian Heymes (The
+Open University, Milton Keynes, UK) for his valuable contribution
+to this manuscript.
+
+AUTHOR DECLARATIONS
+
+Conflict of Interest
+
+The authors have no conflicts to disclose.
+
+DATA AVAILABILITY
+
+The data that support the findings of this study are available
+from the corresponding author upon reasonable request. The par-
+ticular data that support the findings of this study as presented in
+Figs. 5 and 6(b) are available within the article and its supplementary
+material.
+
+REFERENCES
+
+1O. O. Versolato, “Physics of laser-driven tin plasma sources of EUV radiation for
+nanolithography,” Plasma Sources Sci. Technol. 28, 083001 (2019).
+2M. Purvis, I. V. Fomenkov, A. A. Schafgans, M. Vargas, S. Rich, Y. Tao, S. I.
+Rokitski, M. Mulder, E. Buurman, M. Kats, J. Stewart, A. D. LaForge, C. Rajyaguru,
+G. Vaschenko, A. I. Ershov, R. J. Rafac, M. Abraham, D. C. Brandt, and D. J.
+Brown, “Industrialization of a robust EUV source for high-volume manufacturing
+and power scaling beyond 250 W,” Proc. SPIE 10583, 1058327 (2018).
+3S. K. Moore, “EUV lithography finally ready for fabs,” IEEE Spectrum 55, 46–48
+(2018).
+4H. Mizoguchi, H. Nakarai, T. Abe, K. M. Nowak, Y. Kawasuji, H. Tanaka et al.,
+High Power LPP-EUV Source with Long Collector Mirror Lifetime for High Volume
+Semiconductor Manufacturing, China Semiconductor Technology International
+Conference (CSTIC) (IEEE, 2018), pp. 1–7.
+5A. Y. Vinokhodov, M. S. Krivokorytov, Y. V. Sidelnikov, V. M. Krivtsun,
+V. V. Medvedev, and K. N. Koshelev, “Droplet-based, high-brightness extreme
+ultraviolet laser plasma source for metrology,” J. Appl. Phys. 120, 163304
+(2016).
+
+6V. Y. Banine, K. N. Koshelev, and G. H. P. M. Swinkels, “Physical processes in
+EUV sources for microlithography,” J. Phys. D: Appl. Phys. 44, 253001 (2011).
+7J. Benschop, V. Banine, S. Lok, and E. Loopstra, “Extreme ultraviolet lithography:
+Status and prospects,” J. Vac. Sci. Technol. B 26, 2204–2207 (2008).
+8V. I. Azarov and Y. N. Joshi, “Analysis of the 4d7-4d65p transition array of the
+eighth spectrum of tin: Sn VIII,” J. Phys. B: At., Mol. Opt. Phys. 26, 3495–3514
+(1993).
+9S. S. Churilov and A. N. Ryabtsev, “Analysis of the 4p6 4d7–(4p6 4d64f + 4p5 4d8)
+transitions in the Sn VIII spectrum,” Opt. Spectrosc. 100, 660–666 (2006).
+10S. S. Churilov and A. N. Ryabtsev, “Analyses of the Sn IX–Sn XII spectra in the
+EUV region,” Phys. Scr. 73, 614 (2006).
+11A. N. Ryabtsev, É. Y. Kononov, and S. S. Churilov, “Spectra of rubidium-like Pd
+X-Sn XIV ions,” Opt. Spectrosc. 105, 844–850 (2008).
+12I. Y. Tolstikhina, S. S. Churilov, A. N. Ryabtsev, and K. N. Koshelev, “Atomic
+tin data,” in EUV Sources for Lithography, edited by V. Bakshi (SPIE Press, 2006),
+Chap. 4, pp. 113–148.
+13R. D’Arcy, H. Ohashi, S. Suda, H. Tanuma, S. Fujioka, H. Nishimura, K.
+Nishihara, C. Suzuki, T. Kato, F. Koike, J. White, and G. O’Sullivan, “Transitions
+and the effects of configuration interaction in the spectra of Sn XV–Sn XVIII,”
+Phys. Rev. A 79, 042509 (2009).
+14H. Ohashi, S. Suda, H. Tanuma, S. Fujioka, H. Nishimura, A. Sasaki, and K.
+Nishihara, “EUV emission spectra in collisions of multiply charged Sn ions with
+He and Xe,” J. Phys. B: At., Mol. Opt. Phys. 43, 065204 (2010).
+15J. Colgan, D. P. Kilcrease, J. Abdallah, M. E. Sherrill, C. J. Fontes, P. Hakel,
+and G. S. J. Armstrong, “Atomic structure considerations for the low-temperature
+opacity of Sn,” High Energy Density Phys. 23, 133–137 (2017).
+16F. Torretti, A. Windberger, A. Ryabtsev, S. Dobrodey, H. Bekker, W. Ubachs,
+R. Hoekstra, E. V. Kahl, J. C. Berengut, J. R. Crespo López-Urrutia, and O. O.
+Versolato, “Optical spectroscopy of complex open-4d-shell ions Sn7+–Sn10+,”
+Phys. Rev. A 95, 042503 (2017).
+17J. Scheers, C. Shah, A. Ryabtsev, H. Bekker, F. Torretti, J. Sheil, D. A. Czapski,
+J. C. Berengut, W. Ubachs, J. R. C. López-Urrutia, R. Hoekstra, and O. O. Verso-
+lato, “EUV spectroscopy of highly charged Sn13+–Sn15+ ions in an electron-beam
+ion trap,” Phys. Rev. A 101, 062511 (2020).
+18S. Bajt, J. B. Alameda, T. W. Barbee, Jr., W. M. Clift, J. A. Folta, B. B. Kaufmann,
+and E. A. Spiller, “Improved reflectance and stability of Mo/Si multilayers,” Opt.
+Eng. 41, 1797–1804 (2002).
+19Q. Huang, V. Medvedev, R. van de Kruijs, A. Yakshin, E. Louis, and F. Bijkerk,
+“Spectral tailoring of nanoscale EUV and soft x-ray multilayer optics,” Appl. Phys.
+Rev. 4, 011104 (2017).
+20G. O’Sullivan, B. Li, R. D’Arcy, P. Dunne, P. Hayden, D. Kilbane, T.
+McCormack, H. Ohashi, F. O’Reilly, P. Sheridan et al., “Spectroscopy of highly
+charged ions and its relevance to EUV and soft x-ray source development,” J. Phys.
+B: At., Mol. Opt. Phys. 48, 144025 (2015).
+21F. Torretti, J. Sheil, R. Schupp, M. Basko, M. Bayraktar, R. Meijer, S. Witte, W.
+Ubachs, R. Hoekstra, O. Versolato et al., “Prominent radiative contributions from
+multiply-excited states in laser-produced tin plasma for nanolithography,” Nat.
+Commun. 11, 2334 (2020).
+22S. S. Churilov and A. N. Ryabtsev, “Analysis of the spectra of In XII–XIV and
+Sn XIII–XV in the far-VUV region,” Opt. Spectrosc. 101, 169–178 (2006).
+23W. Svendsen and G. O’Sullivan, “Statistics and characteristics of XUV transition
+arrays from laser-produced plasmas of the elements tin through iodine,” Phys.
+Rev. A 50, 3710–3718 (1994).
+24S. S. Churilov, R. R. Kildiyarova, A. N. Ryabtsev, A. Kramida, and Y. N. Joshi,
+“Analysis of the 4d9–4d8(4f + 6p) transition array of Sn VI,” Phys. Scr. 50,
+463–468 (1994).
+25F. Torretti, R. Schupp, D. Kurilovich, A. Bayerle, J. Scheers, W. Ubachs, R.
+Hoekstra, and O. O. Versolato, “Short-wavelength out-of-band EUV emission
+from Sn laser-produced plasma,” J. Phys. B: At., Mol. Opt. Phys. 51, 045005 (2018).
+26F. Torretti, F. Liu, M. Bayraktar, J. Scheers, Z. Bouza, W. Ubachs, R. Hoekstra,
+and O. Versolato, “Spectral characterization of an industrial EUV light source for
+nanolithography,” J. Phys. D: Appl. Phys. 53, 055204 (2019).
+27R. Schupp, F. Torretti, R. Meijer, M. Bayraktar, J. Scheers, D. Kurilovich, A.
+Bayerle, K. Eikema, S. Witte, W. Ubachs, R. Hoekstra, and O. Versolato, “Efficient
+generation of extreme ultraviolet light from Nd:YAG-driven microdroplet-tin
+plasma,” Phys. Rev. Appl. 12, 014010 (2019).
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-7
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+AIP Advances
+
+ARTICLE
+
+scitation.org/journal/adv
+
+28R. Schupp, F. Torretti, R. A. Meijer, M. Bayraktar, J. Sheil, J. Scheers, D.
+Kurilovich, A. Bayerle, A. A. Schafgans, M. Purvis, K. S. E. Eikema, S. Witte, W.
+Ubachs, R. Hoekstra, and O. O. Versolato, “Radiation transport and scaling of
+optical depth in Nd:YAG laser-produced microdroplet-tin plasma,” Appl. Phys.
+Lett. 115, 124101 (2019).
+29Z. Bouza, J. Scheers, A. Ryabtsev, R. Schupp, L. Behnke, C. Shah, J. Sheil, M.
+Bayraktar, J. R. C. López-Urrutia, W. Ubachs, R. Hoekstra, and O. O. Versolato,
+“EUV spectroscopy of Sn5+–Sn10+ ions in an electron beam ion trap and laser-
+produced plasmas,” J. Phys. B: At., Mol. Opt. Phys. 53, 195001 (2020).
+30R. Schupp, L. Behnke, J. Sheil, Z. Bouza, M. Bayraktar, W. Ubachs, R. Hoekstra,
+and O. O. Versolato, “Characterization of 1- and 2-μm-wavelength laser-produced
+microdroplet-tin plasma for generating extreme-ultraviolet light,” Phys. Rev. Res.
+3, 013294 (2021).
+31L. Behnke, R. Schupp, Z. Bouza, M. Bayraktar, Z. Mazzotta, R. Meijer, J. Sheil,
+S. Witte, W. Ubachs, R. Hoekstra, and O. O. Versolato, “Extreme ultraviolet light
+from a tin plasma driven by a 2-μm-wavelength laser,” Opt. Express 29, 4475–4487
+(2021).
+32H. Sakaguchi, S. Fujioka, S. Namba, H. Tanuma, H. Ohashi, S. Suda, M.
+Shimomura, Y. Nakai, Y. Kimura, Y. Yasuda, H. Nishimura, T. Norimatsu, A.
+Sunahara, K. Nishihara, N. Miyanaga, Y. Izawa, and K. Mima, “Absolute eval-
+uation of out-of-band radiation from laser-produced tin plasmas for extreme
+ultraviolet lithography,” Appl. Phys. Lett. 92, 111503 (2008).
+33S. Namba, S. Fujioka, H. Sakaguchi, H. Nishimura, Y. Yasuda, K. Nagai, N.
+Miyanaga, Y. Izawa, K. Mima, K. Sato, and K. Takiyama, “Characterization of
+out-of-band radiation and plasma parameters in laser-produced Sn plasmas for
+extreme ultraviolet lithography light sources,” J. Appl. Phys. 104, 013305 (2008).
+34N. Gambino, B. Rollinger, D. Hudgins, and R. S. Abhari, “Spectral emission
+properties of a laser-produced plasma light source in the sub-200 nm range
+for wafer inspection applications,” J. Micro/Nanolithogr., MEMS, MOEMS 14,
+034002 (2015).
+35N. Gambino, B. Rollinger, M. Brandstätter, and R. S. Abhari, “Vacuum ultra-
+violet spectral emission properties of Ga, In and Sn droplet-based laser produced
+plasmas,” Spectrochim. Acta, Part B 122, 149–156 (2016).
+36J. Scheers, R. Schupp, R. Meijer, W. Ubachs, R. Hoekstra, and O. O. Versolato,
+“Time- and space-resolved optical Stark spectroscopy in the afterglow of laser-
+produced tin-droplet plasma,” Phys. Rev. E 102, 013204 (2020).
+37I. V. Fomenkov, D. C. Brandt, A. N. Bykanov, A. I. Ershov, W. N. Partlo, D. W.
+Myers, N. R. Böwering, G. O. Vaschenko, O. V. Khodykin, J. R. Hoffman, E. V. L.,
+R. D. Simmons, J. A. Chavez, and C. P. Chrobak, “Laser-produced plasma source
+system development,” Proc. SPIE 6517, 65173J (2007).
+38D. Campos, S. S. Harilal, and A. Hassanein, “The effect of laser wavelength
+on emission and particle dynamics of Sn plasma,” J. Appl. Phys. 108, 113305
+(2010).
+39N. Davydova, E. van Setten, R. de Kruif, B. Connolly, N. Fukugami, Y. Kodera,
+H. Morimoto, Y. Sakata, J. Kotani, S. Kondo, T. Imoto, H. Rolff, A. Ullrich,
+R. K. Jaganatharaja, A. Lammers, D. Oorschot, C.-W. Man, G. Schiffelers, and
+J. van Dijk, “Black border, mask 3D effects: Covering challenges of EUV mask
+architecture for 22 nm node and beyond,” Proc. SPIE 9231, 923102 (2014).
+40H. Parchamy, J. Szilagyi, M. Masnavi, and M. Richardson, “Ultraviolet out-of-
+band radiation studies in laser tin plasma sources,” J. Appl. Phys. 122, 173303
+(2017).
+41M. van de Kerkhof, F. Liu, M. Meeuwissen, X. Zhang, R. de Kruif, N. Davydova,
+G. Schiffelers, F. Wählisch, E. van Setten, W. Varenkamp, K. Ricken, L. de Winter,
+J. McNamara, and M. Bayraktar, “Spectral purity performance of high-power EUV
+systems,” Proc. SPIE 11323, 1132321 (2020).
+42M. A. van de Kerkhof, F. Liu, M. Meeuwissen, X. Zhang, M. Bayraktar, R. C.
+de Kruif, and N. V. Davydova, “High-power EUV lithography: Spectral purity
+and imaging performance,” J. Micro/Nanolithogr., MEMS, MOEMS 19, 033801
+(2020).
+43K. Liu, Y. Li, F. Zhang, and M. Fan, “Transient thermal and structural defor-
+mation and its impact on optical performance of projection optics for extreme
+ultraviolet lithography,” Jpn. J. Appl. Phys., Part 1 46, 6568–6572 (2007).
+44G. Yang and Y. Li, “Analysis and control of thermal and structural deforma-
+tion of projection optics for 22-nm EUV lithography,” Proc. SPIE 8322, 83222V
+(2012).
+
+45R. M. van der Horst, J. Beckers, E. A. Osorio, D. I. Astakhov, W. J. Goedheer,
+C. J. Lee, V. V. Ivanov, V. M. Krivtsum, K. N. Koshelev, D. V. Lopaev, F. Bijk-
+erk, and V. Y. Banine, “Exploring the electron density in plasma induced by EUV
+radiation: I. Experimental study in hydrogen,” J. Phys. D: Appl. Phys. 49, 145203
+(2016).
+46R. A. Meijer, A. S. Stodolna, K. S. E. Eikema, and S. Witte, “High-energy
+Nd:YAG laser system with arbitrary sub-nanosecond pulse shaping capability,”
+Opt. Lett. 42, 2758–2761 (2017).
+47D. Kurilovich, A. L. Klein, F. Torretti, A. Lassise, R. Hoekstra, W. Ubachs, H.
+Gelderblom, and O. O. Versolato, “Plasma propulsion of a metallic microdroplet
+and its deformation upon laser impact,” Phys. Rev. Appl. 6, 014018 (2016).
+48D. Kurilovich, M. M. Basko, D. A. Kim, F. Torretti, R. Schupp, J. C.
+Visschers, J. Scheers, R. Hoekstra, W. Ubachs, and O. O. Versolato, “Power-law
+scaling of plasma pressure on laser-ablated tin microdroplets,” Phys. Plasmas 25,
+012709 (2018).
+49B. Liu, D. Kurilovich, H. Gelderblom, and O. O. Versolato, “Mass loss from a
+stretching semitransparent sheet of liquid tin,” Phys. Rev. Appl. 13, 024035 (2020).
+50B. Liu, R. A. Meijer, J. Hernandez-Rueda, D. Kurilovich, Z. Mazzotta, S. Witte,
+and O. O. Versolato, “Laser-induced vaporization of a stretching sheet of liquid
+tin,” J. Appl. Phys. 129, 053302 (2021).
+51R. Schupp, L. Behnke, Z. Bouza, Z. Mazzotta, Y. Mostafa, A. Lassise, L.
+Poirier, J. Sheil, M. Bayraktar, W. Ubachs, R. Hoekstra, and O. O. Versolato,
+“Characterization of angularly resolved EUV emission from 2-μm-wavelength
+laser-driven Sn plasmas using preformed liquid disk targets,” J. Phys. D: Appl.
+Phys. 54, 365103 (2021).
+52S. J. Goh, H. J. M. Bastiaens, B. Vratzov, Q. Huang, F. Bijkerk, and K. J. Boller,
+“Fabrication and characterization of free-standing, high-line-density transmission
+gratings for the vacuum UV to soft X-ray range,” Opt. Express 23, 4421–4434
+(2015).
+53M. Bayraktar, H. M.
+J. Bastiaens, C. Bruineman, B. Vratzov, and F.
+Bijkerk, “Broadband transmission grating spectrometer for measuring the emis-
+sion spectrum of EUV sources,” NEVAC Blad 54, 14–19 (2016).
+54B. L. Henke, E. M. Gullikson, and J. C. Davis, “X-ray interactions: Photoab-
+sorption, scattering, transmission, and reflection at E = 50-30,000 eV, Z = 1-92,”
+At. Data Nucl. Data Tables 54, 181–342 (1993).
+55T. A. Johnson, R. Soufli, E. M. Gullikson, and M. Clift, “Zirconium and niobium
+transmission data at wavelengths from 11-16 nm and 200-1200 nm,” Proc. SPIE
+5538, 119–124 (2004).
+56A. Joseph, M. H. Modi, A. Singh, R. K. Gupta, and G. S. Lodha, “Analysis of soft
+x-ray/VUV transmission characteristics of Si and Al filters,” AIP Conf. Proc. 1512,
+498–499 (2013).
+57F. R. Powell, P. W. Vedder, J. F. Lindblom, and S. F. Powell, “Thin film filter per-
+formance for extreme ultraviolet and x-ray applications,” Opt. Eng. 29, 614–624
+(1990).
+58greateyes GmbH, Scientific full-frame CCD cameras for VUV, EUV, x-ray
+imaging and spectroscopy, 2017.
+59J. Heymes, M. Soman, G. Randall, A. Gottwald, A. Harris, A. Kelt, I. Moody,
+X. Meng, and A. D. Holland, “Comparison of back-thinned detector ultraviolet
+quantum efficiency for two commercially available passivation treatments,” IEEE
+Trans. Nucl. Sci. 67, 1962–1967 (2020).
+60J. R. Janesick, Scientific Charge-Coupled Devices (SPIE Press, 2001), Vol. 83.
+61J. Heymes, M. Soman, T. Buggey, C. Crews, G. Randall, A. Gottwald, A.
+Harris, A. Kelt, U. Kroth, I. Moody, X. Meng, O. Ogor, and A. Holland,
+image sensor quantum efficiency
+“Calibrating Teledyne-e2v’s ultraviolet
+processes,” Proc. SPIE 11454, 114541G (2020).
+62R. A. Stern, L. Shing, and M. M. Blouke, “Quantum efficiency measurements
+and modeling of ion-implanted, laser-annealed charge-coupled devices: X-ray,
+extreme-ultraviolet, ultraviolet, and optical data,” Appl. Opt. 33, 2521–2533
+(1994).
+63L. Poletto, A. Boscolo, and G. Tondello, “Characterization of a charge-coupled-
+device detector in the 1100–0.14-nm (1-eV to 9-keV) spectral region,” Appl. Opt.
+38, 29–36 (1999).
+64H. P. Garnir and P.-H. Lefèbvre, “Quantum efficiency of back-illuminated CCD
+detectors in the VUV region (30–200nm),” Nucl. Instrum. Methods Phys. Res.,
+Sect. B 235, 530–534 (2005).
+
+AIP Advances 11, 125003 (2021); doi: 10.1063/5.0073839
+
+© Author(s) 2021
+
+11, 125003-8
+
+l
+
+0
+5
+J
+u
+y
+2
+0
+2
+5
+1
+3
+5
+8
+5
+0
+
+:
+
+:
+
+ 
+ 
+ 
+ 
+
