@@ -25,7 +25,7 @@ def is_jupyter_cell_marker(line):
 def is_comment(line):
         # Remove lines starting with # (not inside string literals)
         s = line.strip()
-        return s.startswith("#")
+        return s.startswith("# ")
 
 def remove_jupyter_markers(input_path, output_path):
     with open(input_path, "r", encoding="utf-8") as fin, open(output_path, "w", encoding="utf-8") as fout:

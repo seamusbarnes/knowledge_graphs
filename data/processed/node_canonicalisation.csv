@@ -1,0 +1,89 @@
+original_name,canonical_name
+1000 lines/mm transmission grating,1000 lines/mm transmission grating
+12.5 nm,12.5 nm
+129 nm,129 nm
+165 nm,165 nm
+17 nm,17 nm
+6.1 nm,6.1 nm
+<115 nm,<115 nm
+ADU to generated electrons in CCD,ADU to generated electrons in CCD
+Al filter,Al filter
+CCD,CCD
+CCD response,CCD response
+Cameras,Cameras
+Filters,Filters
+Grating,Grating
+Laser beam,Laser beam
+LiF filter,LiF filter
+MgF2 filter,MgF2 filter
+Si L-edge absorption in Si3N4 grating material,Si L-edge absorption in Si3N4 grating material
+Si filter,Si filter
+SiC filter,SiC filter
+SiC mirrors,SiC mirrors
+Slit,Slit
+Spectrometer,Spectrometer
+Tin droplet,Tin droplet
+UV fused silica filter,UV fused silica filter
+UVFS filter,UVFS filter
+Zr filter,Zr filter
+"Zr, Si, Al oxide layers","Zr, Si, Al oxide layers"
+absolute calibration of spectrum,absolute calibration of spectrum
+accurate measurement of light source emission spectrum,accurate measurement of light source emission spectrum
+accurate transmission functions for filters,accurate transmission functions for filters
+background image subtraction,background image subtraction
+calibration at PTB,calibration at PTB
+"calibration of transmission grating, filters, and camera response","calibration of transmission grating, filters, and camera response"
+carbon and carbide impurities,carbon and carbide impurities
+comparison,comparison
+concatenated spectrum,concatenated spectrum
+cooling of CCD,cooling of CCD
+corresponding filter,corresponding filter
+dark counts and read-out noise,dark counts and read-out noise
+diffracted light in TGS,diffracted light in TGS
+emitted energy in various wavelength ranges,emitted energy in various wavelength ranges
+energy distribution of laser-produced plasma (LPP),energy distribution of laser-produced plasma (LPP)
+energy in 115–175.5 nm range,energy in 115–175.5 nm range
+energy in 175.5–265.5 nm range,energy in 175.5–265.5 nm range
+energy in 42.5–115 nm range,energy in 42.5–115 nm range
+filter transmission,filter transmission
+"filter transmission, grating efficiency, camera response","filter transmission, grating efficiency, camera response"
+filter/mirror-corrected spectra measurement,filter/mirror-corrected spectra measurement
+filters,filters
+first-order diffraction efficiency of grating,first-order diffraction efficiency of grating
+gain,gain
+"gain, quantum yield, quantum efficiency","gain, quantum yield, quantum efficiency"
+higher diffraction orders,higher diffraction orders
+higher-order diffraction,higher diffraction orders
+inaccurate spectrum at longer wavelengths,inaccurate spectrum at longer wavelengths
+lower filter transmission than theoretical,lower filter transmission than theoretical
+measurement free of higher diffraction orders,measurement free of higher diffraction orders
+measurement free of higher-order diffraction,measurement free of higher diffraction
+measurement in 115–175.5 nm region,measurement in 115–175.5 nm region
+measurement in 17.5–42.5 nm region,measurement in 17.5–42.5 nm region
+measurement in 175.5–265.5 nm region,measurement in 175.5–265.5 nm region
+measurement in 40–100 nm region,measurement in 40–100 nm region
+measurement in 42.5–115 nm region,measurement in 42.5–115 nm region
+measurement in 5.5–17.5 nm region,measurement in 5.5–17.5 nm region
+number of electrons per detected photon,number of electrons per detected photon
+otherwise inaccessible 40–100 nm spectral region,otherwise inaccessible 40–100 nm spectral region
+plasma,plasma
+plasma emission,plasma emission
+plasma generation,plasma generation
+quantum efficiency (QE),quantum efficiency (QE)
+quantum yield,quantum yield
+ratio of detected to incident energy on CCD,ratio of detected to incident energy on CCD
+selection of wavelength region,selection of wavelength region
+shadowgraph of tin targets,shadowgraph of tin targets
+spatial extent of incoming light,spatial extent of incoming light
+spectra,spectra
+spectral measurement,spectral measurement
+spectrometer,spectrometer
+spectrum,spectrum
+spectrum in the 5.5–265.5 nm wavelength range,spectrum in the 5.5–265.5 nm wavelength range
+thermal noise,thermal noise
+transmission functions,transmission functions
+transmission grating spectrometer,transmission grating spectrometer
+unfiltered spectrum,unfiltered spectrum
+unwanted radiation,unwanted radiation
+wavelength range,wavelength range
+−30 °C,−30 °C
